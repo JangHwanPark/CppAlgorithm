@@ -3,5 +3,9 @@ C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_BOJ
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/main.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_BOJ_10951.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_BOJ_2675.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_basic_loop.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_classII.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_10818_mix_max.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_basic_split.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
