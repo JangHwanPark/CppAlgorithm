@@ -250,6 +250,12 @@ build CMakeFiles/0000_basic_loop.dir/0000_basic/split.cpp.obj: CXX_COMPILER__000
   OBJECT_DIR = CMakeFiles\0000_basic_loop.dir
   OBJECT_FILE_DIR = CMakeFiles\0000_basic_loop.dir\0000_basic
 
+build CMakeFiles/0000_basic_loop.dir/0000_basic/bfs.cpp.obj: CXX_COMPILER__0000_basic_loop_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/bfs.cpp || cmake_object_order_depends_target_0000_basic_loop
+  DEP_FILE = CMakeFiles\0000_basic_loop.dir\0000_basic\bfs.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_loop.dir\0000_basic
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0000_basic_loop
@@ -258,7 +264,7 @@ build CMakeFiles/0000_basic_loop.dir/0000_basic/split.cpp.obj: CXX_COMPILER__000
 #############################################
 # Link the executable 0000_basic_loop.exe
 
-build 0000_basic_loop.exe: CXX_EXECUTABLE_LINKER__0000_basic_loop_Debug CMakeFiles/0000_basic_loop.dir/0000_basic/loop.cpp.obj CMakeFiles/0000_basic_loop.dir/0000_basic/split.cpp.obj
+build 0000_basic_loop.exe: CXX_EXECUTABLE_LINKER__0000_basic_loop_Debug CMakeFiles/0000_basic_loop.dir/0000_basic/loop.cpp.obj CMakeFiles/0000_basic_loop.dir/0000_basic/split.cpp.obj CMakeFiles/0000_basic_loop.dir/0000_basic/bfs.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0000_basic_loop.dir
@@ -367,6 +373,39 @@ build 0000_basic_split.exe: CXX_EXECUTABLE_LINKER__0000_basic_split_Debug CMakeF
   TARGET_IMPLIB = lib0000_basic_split.dll.a
   TARGET_PDB = 0000_basic_split.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 0000_basic_bfs
+
+
+#############################################
+# Order-only phony target for 0000_basic_bfs
+
+build cmake_object_order_depends_target_0000_basic_bfs: phony || CMakeFiles/0000_basic_bfs.dir
+
+build CMakeFiles/0000_basic_bfs.dir/0000_basic/bfs.cpp.obj: CXX_COMPILER__0000_basic_bfs_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/bfs.cpp || cmake_object_order_depends_target_0000_basic_bfs
+  DEP_FILE = CMakeFiles\0000_basic_bfs.dir\0000_basic\bfs.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_bfs.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_bfs.dir\0000_basic
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0000_basic_bfs
+
+
+#############################################
+# Link the executable 0000_basic_bfs.exe
+
+build 0000_basic_bfs.exe: CXX_EXECUTABLE_LINKER__0000_basic_bfs_Debug CMakeFiles/0000_basic_bfs.dir/0000_basic/bfs.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0000_basic_bfs.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0000_basic_bfs.exe
+  TARGET_IMPLIB = lib0000_basic_bfs.dll.a
+  TARGET_PDB = 0000_basic_bfs.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -399,6 +438,8 @@ build 0000_BOJ_2675: phony 0000_BOJ_2675.exe
 
 build 0000_BOJ_tt: phony 0000_BOJ_tt.exe
 
+build 0000_basic_bfs: phony 0000_basic_bfs.exe
+
 build 0000_basic_loop: phony 0000_basic_loop.exe
 
 build 0000_basic_split: phony 0000_basic_split.exe
@@ -419,7 +460,7 @@ build main: phony main.exe
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony CplusAlgorithm.exe 0000_BOJ_tt.exe main.exe 0000_BOJ_10951.exe 0000_BOJ_2675.exe 0000_basic_loop.exe 0001_BOJ_classII.exe 0001_BOJ_10818_mix_max.exe 0000_basic_split.exe
+build all: phony CplusAlgorithm.exe 0000_BOJ_tt.exe main.exe 0000_BOJ_10951.exe 0000_BOJ_2675.exe 0000_basic_loop.exe 0001_BOJ_classII.exe 0001_BOJ_10818_mix_max.exe 0000_basic_split.exe 0000_basic_bfs.exe
 
 # =============================================================================
 # Built-in targets
