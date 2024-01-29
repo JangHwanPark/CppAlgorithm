@@ -106,6 +106,18 @@ build CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/10818_mix_max.cpp.obj: CXX_COMPILER__0
   OBJECT_DIR = CMakeFiles\0000_BOJ_tt.dir
   OBJECT_FILE_DIR = CMakeFiles\0000_BOJ_tt.dir\0001_BOJ
 
+build CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/2490.cpp.obj: CXX_COMPILER__0000_BOJ_tt_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/2490.cpp || cmake_object_order_depends_target_0000_BOJ_tt
+  DEP_FILE = CMakeFiles\0000_BOJ_tt.dir\0001_BOJ\2490.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_BOJ_tt.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_BOJ_tt.dir\0001_BOJ
+
+build CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/2576.cpp.obj: CXX_COMPILER__0000_BOJ_tt_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/2576.cpp || cmake_object_order_depends_target_0000_BOJ_tt
+  DEP_FILE = CMakeFiles\0000_BOJ_tt.dir\0001_BOJ\2576.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_BOJ_tt.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_BOJ_tt.dir\0001_BOJ
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0000_BOJ_tt
@@ -114,7 +126,7 @@ build CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/10818_mix_max.cpp.obj: CXX_COMPILER__0
 #############################################
 # Link the executable 0000_BOJ_tt.exe
 
-build 0000_BOJ_tt.exe: CXX_EXECUTABLE_LINKER__0000_BOJ_tt_Debug CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/2675.cpp.obj CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/classII.cpp.obj CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/10818_mix_max.cpp.obj
+build 0000_BOJ_tt.exe: CXX_EXECUTABLE_LINKER__0000_BOJ_tt_Debug CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/2675.cpp.obj CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/classII.cpp.obj CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/10818_mix_max.cpp.obj CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/2490.cpp.obj CMakeFiles/0000_BOJ_tt.dir/0001_BOJ/2576.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0000_BOJ_tt.dir
@@ -256,6 +268,12 @@ build CMakeFiles/0000_basic_loop.dir/0000_basic/bfs.cpp.obj: CXX_COMPILER__0000_
   OBJECT_DIR = CMakeFiles\0000_basic_loop.dir
   OBJECT_FILE_DIR = CMakeFiles\0000_basic_loop.dir\0000_basic
 
+build CMakeFiles/0000_basic_loop.dir/0000_basic/queue_stl.cpp.obj: CXX_COMPILER__0000_basic_loop_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/queue_stl.cpp || cmake_object_order_depends_target_0000_basic_loop
+  DEP_FILE = CMakeFiles\0000_basic_loop.dir\0000_basic\queue_stl.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_loop.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_loop.dir\0000_basic
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0000_basic_loop
@@ -264,7 +282,7 @@ build CMakeFiles/0000_basic_loop.dir/0000_basic/bfs.cpp.obj: CXX_COMPILER__0000_
 #############################################
 # Link the executable 0000_basic_loop.exe
 
-build 0000_basic_loop.exe: CXX_EXECUTABLE_LINKER__0000_basic_loop_Debug CMakeFiles/0000_basic_loop.dir/0000_basic/loop.cpp.obj CMakeFiles/0000_basic_loop.dir/0000_basic/split.cpp.obj CMakeFiles/0000_basic_loop.dir/0000_basic/bfs.cpp.obj
+build 0000_basic_loop.exe: CXX_EXECUTABLE_LINKER__0000_basic_loop_Debug CMakeFiles/0000_basic_loop.dir/0000_basic/loop.cpp.obj CMakeFiles/0000_basic_loop.dir/0000_basic/split.cpp.obj CMakeFiles/0000_basic_loop.dir/0000_basic/bfs.cpp.obj CMakeFiles/0000_basic_loop.dir/0000_basic/queue_stl.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0000_basic_loop.dir
@@ -406,6 +424,72 @@ build 0000_basic_bfs.exe: CXX_EXECUTABLE_LINKER__0000_basic_bfs_Debug CMakeFiles
   TARGET_IMPLIB = lib0000_basic_bfs.dll.a
   TARGET_PDB = 0000_basic_bfs.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_2490
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_2490
+
+build cmake_object_order_depends_target_0001_BOJ_2490: phony || CMakeFiles/0001_BOJ_2490.dir
+
+build CMakeFiles/0001_BOJ_2490.dir/0001_BOJ/2490.cpp.obj: CXX_COMPILER__0001_BOJ_2490_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/2490.cpp || cmake_object_order_depends_target_0001_BOJ_2490
+  DEP_FILE = CMakeFiles\0001_BOJ_2490.dir\0001_BOJ\2490.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_2490.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_2490.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_2490
+
+
+#############################################
+# Link the executable 0001_BOJ_2490.exe
+
+build 0001_BOJ_2490.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_2490_Debug CMakeFiles/0001_BOJ_2490.dir/0001_BOJ/2490.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_2490.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_2490.exe
+  TARGET_IMPLIB = lib0001_BOJ_2490.dll.a
+  TARGET_PDB = 0001_BOJ_2490.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_2576
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_2576
+
+build cmake_object_order_depends_target_0001_BOJ_2576: phony || CMakeFiles/0001_BOJ_2576.dir
+
+build CMakeFiles/0001_BOJ_2576.dir/0001_BOJ/2576.cpp.obj: CXX_COMPILER__0001_BOJ_2576_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/2576.cpp || cmake_object_order_depends_target_0001_BOJ_2576
+  DEP_FILE = CMakeFiles\0001_BOJ_2576.dir\0001_BOJ\2576.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_2576.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_2576.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_2576
+
+
+#############################################
+# Link the executable 0001_BOJ_2576.exe
+
+build 0001_BOJ_2576.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_2576_Debug CMakeFiles/0001_BOJ_2576.dir/0001_BOJ/2576.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_2576.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_2576.exe
+  TARGET_IMPLIB = lib0001_BOJ_2576.dll.a
+  TARGET_PDB = 0001_BOJ_2576.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -446,6 +530,10 @@ build 0000_basic_split: phony 0000_basic_split.exe
 
 build 0001_BOJ_10818_mix_max: phony 0001_BOJ_10818_mix_max.exe
 
+build 0001_BOJ_2490: phony 0001_BOJ_2490.exe
+
+build 0001_BOJ_2576: phony 0001_BOJ_2576.exe
+
 build 0001_BOJ_classII: phony 0001_BOJ_classII.exe
 
 build CplusAlgorithm: phony CplusAlgorithm.exe
@@ -460,7 +548,7 @@ build main: phony main.exe
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony CplusAlgorithm.exe 0000_BOJ_tt.exe main.exe 0000_BOJ_10951.exe 0000_BOJ_2675.exe 0000_basic_loop.exe 0001_BOJ_classII.exe 0001_BOJ_10818_mix_max.exe 0000_basic_split.exe 0000_basic_bfs.exe
+build all: phony CplusAlgorithm.exe 0000_BOJ_tt.exe main.exe 0000_BOJ_10951.exe 0000_BOJ_2675.exe 0000_basic_loop.exe 0001_BOJ_classII.exe 0001_BOJ_10818_mix_max.exe 0000_basic_split.exe 0000_basic_bfs.exe 0001_BOJ_2490.exe 0001_BOJ_2576.exe
 
 # =============================================================================
 # Built-in targets
