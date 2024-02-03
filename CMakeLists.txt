@@ -15,7 +15,7 @@ add_executable(0000_BOJ_tt 0001_BOJ/2675.cpp
         0001_BOJ/2577.cpp
         0001_BOJ/10807.cpp
         0001_BOJ/3273.cpp
-        0001_BOJ/11816.cpp)
+        0001_BOJ/11816.cpp 0001_BOJ/test.cpp)
 add_executable(main main.cpp)
 add_executable(0000_BOJ_10951 0001_BOJ/classII.cpp
         0000_basic/loop.cpp)
@@ -36,3 +36,4 @@ add_executable(0001_BOJ_2577 0001_BOJ/2577.cpp)
 add_executable(0001_BOJ_1475 0001_BOJ/1475.cpp)
 add_executable(0001_BOJ_3273 0001_BOJ/3273.cpp)
 add_executable(0001_BOJ_11816 0001_BOJ/11816.cpp)
+add_executable(0001_BOJ_test 0001_BOJ/test.cpp)
