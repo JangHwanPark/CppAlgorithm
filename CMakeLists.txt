@@ -15,7 +15,9 @@ add_executable(0000_BOJ_tt 0001_BOJ/2675.cpp
         0001_BOJ/2577.cpp
         0001_BOJ/10807.cpp
         0001_BOJ/3273.cpp
-        0001_BOJ/11816.cpp 0001_BOJ/test.cpp)
+        0001_BOJ/11816.cpp
+        0001_BOJ/10773.cpp
+        0001_BOJ/1874.cpp)
 add_executable(main main.cpp)
 add_executable(0000_BOJ_10951 0001_BOJ/classII.cpp
         0000_basic/loop.cpp)
@@ -28,7 +30,8 @@ add_executable(0001_BOJ_classII 0001_BOJ/classII.cpp)
 add_executable(0001_BOJ_10818_mix_max 0001_BOJ/10818_mix_max.cpp)
 add_executable(0000_basic_split 0000_basic/split.cpp)
 add_executable(0000_basic_bfs 0000_basic/bfs.cpp
-        0001_BOJ/1475.cpp)
+        0001_BOJ/1475.cpp
+        0000_basic/queue_basic.cpp)
 add_executable(0001_BOJ_2490 0001_BOJ/2490.cpp)
 add_executable(0001_BOJ_2576 0001_BOJ/2576.cpp)
 add_executable(0001_BOJ_10808 0001_BOJ/10808.cpp)
@@ -37,3 +40,4 @@ add_executable(0001_BOJ_1475 0001_BOJ/1475.cpp)
 add_executable(0001_BOJ_3273 0001_BOJ/3273.cpp)
 add_executable(0001_BOJ_11816 0001_BOJ/11816.cpp)
 add_executable(0001_BOJ_test 0001_BOJ/test.cpp)
+add_executable(0001_BOJ_10773 0001_BOJ/10773.cpp)
