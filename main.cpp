@@ -1,41 +1,41 @@
 ﻿#include <bits/stdc++.h>
 using namespace std;
-queue<int> que;
-int n, x;
-string str;
+deque<int> dq;
+int n, m, num, cnt = 0;
 
-int main (void) {
-    ios::sync_with_stdio(0);
-    cin.tie(0); cout.tie(0);
-    cin >> n;
-    while (n--) {
-        cin >> str;
-        if (str == "push") {
-            cin >> x;
-            que.push(x);
-        } else if (str == "pop") {
-            if (que.empty()) {
-                cout << -1 << "\n";
-            } else {
-                cout << que.front() << "\n";
-                que.pop();
-            }
-        } else if (str == "size") {
-            cout << que.size() << "\n";
-        } else if (str == "empty") {
-            cout << que.empty() << "\n";
-        } else if (str == "front") {
-            if (que.empty()) {
-                cout << -1 << "\n";
-            } else {
-                cout << que.front() << "\n";
-            }
-        } else {
-            if (que.empty()) {
-                cout << -1 << "\n";
-            } else {
-                cout << que.back() << "\n";
+int main() {
+    cin >> n >> m;
+    for (int i = 1; i <= n; i++) {
+        dq.push_back(i);
+    }
+
+    while (m--) {
+        int idx = 0;
+        cin >> num;
+
+        for (int i = 0; i < dq.size(); i++) {
+            if (dq[i] == num) {
+                idx = i;
+                break;
             }
         }
+
+        if (idx <= dq.size() / 2) {
+            for (int i = 0; i < idx; i++) {
+                dq.push_back(dq.front());
+                dq.pop_front();
+                cnt++;
+            }
+            dq.pop_front();
+        } else {
+            for (int i = 0; i < dq.size() - idx; i++) {
+                dq.push_front(dq.back());
+                dq.pop_back();
+                cnt++;
+            }
+            dq.pop_front();
+        }
     }
+
+    cout << cnt;
 }
