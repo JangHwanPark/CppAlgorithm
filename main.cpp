@@ -2,29 +2,16 @@
 using namespace std;
 
 int main() {
-    int n, k;
-    cin >> n >> k;
+    int a, b;
+    cin >> a >> b;
 
-    list<int> li;
-    for (int i = 1; i <= n; i++) li.push_back(i);
+    string s1 = to_string(a);
+    reverse(s1.begin(), s1.end());
 
-    auto cursor = li.begin();
-    cout << "<";
+    string s2 = to_string(b);
+    reverse(s2.begin(), s2.end());
 
-    while (!li.empty()){
-        for (int i = 0; i < k - 1; i++) {
-            cursor++;
-            if (cursor == li.end()) {
-                cursor = li.begin();
-            }
-        }
-
-        cout << *cursor;
-        cursor = li.erase(cursor);
-        if (cursor == li.end()) cursor = li.begin();
-        if (!li.empty()) cout << ", ";
-    }
-
-    cout << ">";
+    if (s1 > s2) cout << atoi(s1.c_str());
+    else cout << atoi(s2.c_str());
     return 0;
 }
