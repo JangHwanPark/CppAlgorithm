@@ -1,57 +1,11 @@
-cmake_minimum_required(VERSION 3.25)
-project(CplusAlgorithm)
 
-set(CMAKE_CXX_STANDARD 17)
-
-add_executable(CplusAlgorithm main.cpp
-        0001_BOJ/2675.cpp)
-
-add_executable(0000_BOJ_tt 0001_BOJ/2675.cpp
-        0001_BOJ/classII.cpp
-        0001_BOJ/10818_mix_max.cpp
-        0001_BOJ/2490.cpp
-        0001_BOJ/2576.cpp
-        0001_BOJ/10808.cpp
-        0001_BOJ/2577.cpp
-        0001_BOJ/10807.cpp
-        0001_BOJ/3273.cpp
-        0001_BOJ/11816.cpp
-        0001_BOJ/10773.cpp
-        0001_BOJ/1874.cpp)
+add_executable(0000_basic_recursion 0000_basic/recursion.cpp
+        0000_basic/linked_list_basic.cpp
+        0000_basic/list_stl.cpp)
+add_executable(0000_basic_linked_list_basic 0000_basic/linked_list_basic.cpp
+        main.cpp
+        0001_BOJ/5397.cpp)
+add_executable(0000_basic_list_stk 0000_basic/list_stl.cpp)
+add_executable(0000_basic_list_stl 0000_basic/list_stl.cpp)
 add_executable(main main.cpp)
-add_executable(0000_BOJ_10951 0001_BOJ/classII.cpp
-        0000_basic/loop.cpp)
-add_executable(0000_BOJ_2675 0001_BOJ/2675.cpp)
-add_executable(0000_basic_loop 0000_basic/loop.cpp
-        0000_basic/split.cpp
-        0000_basic/bfs.cpp
-        0000_basic/queue_stl.cpp
-        0000_basic/queue_basic.cpp
-        0000_basic/deque_basic.cpp
-        0000_basic/deque_stl.cpp)
-add_executable(0001_BOJ_classII 0001_BOJ/classII.cpp)
-add_executable(0001_BOJ_10818_mix_max 0001_BOJ/10818_mix_max.cpp)
-add_executable(0000_basic_split 0000_basic/split.cpp)
-add_executable(0000_basic_bfs 0000_basic/bfs.cpp
-        0001_BOJ/1475.cpp
-        0000_basic/deque_stl.cpp
-)
-add_executable(0001_BOJ_2490 0001_BOJ/2490.cpp)
-add_executable(0001_BOJ_2576 0001_BOJ/2576.cpp)
-add_executable(0001_BOJ_10808 0001_BOJ/10808.cpp)
-add_executable(0001_BOJ_2577 0001_BOJ/2577.cpp)
-add_executable(0001_BOJ_1475 0001_BOJ/1475.cpp)
-add_executable(0001_BOJ_3273 0001_BOJ/3273.cpp)
-add_executable(0001_BOJ_11816 0001_BOJ/11816.cpp)
-add_executable(0001_BOJ_test 0001_BOJ/test.cpp)
-add_executable(0001_BOJ_10773 0001_BOJ/10773.cpp)
-add_executable(0000_basic_queue_basic 0000_basic/queue_basic.cpp
-        0000_basic/queue_basic.cpp
-        0000_basic/queue_basic.cpp)
-add_executable(new_target 0000_basic/queue_basic.cpp)
-
-add_executable(0000_basic_queue_basic 0000_basic/queue_basic.cpp)
-add_executable(0000_basic_deque_basic 0000_basic/deque_basic.cpp)
-add_executable(0000_basic_deque_stl 0000_basic/deque_stl.cpp
-        0000_basic/deque_stl.cpp)
-add_executable(0000_basic_deque_stl 0000_basic/deque_stl.cpp)
+add_executable(0001_BOJ_5397 0001_BOJ/5397.cpp)

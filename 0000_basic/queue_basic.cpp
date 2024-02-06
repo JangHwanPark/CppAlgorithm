@@ -9,7 +9,7 @@ void pop() {
 
 }
 
-void front() {
+int front() {
 
 }
 
