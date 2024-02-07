@@ -112,6 +112,30 @@ build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/5397.cpp.obj: CXX_COM
   OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
   OBJECT_FILE_DIR = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ
 
+build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1259_palindrome.cpp.obj: CXX_COMPILER__0000_basic_linked_list_basic_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1259_palindrome.cpp || cmake_object_order_depends_target_0000_basic_linked_list_basic
+  DEP_FILE = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ\1259_palindrome.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ
+
+build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1546_average.cpp.obj: CXX_COMPILER__0000_basic_linked_list_basic_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1546_average.cpp || cmake_object_order_depends_target_0000_basic_linked_list_basic
+  DEP_FILE = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ\1546_average.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ
+
+build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1978_find_prime_number.cpp.obj: CXX_COMPILER__0000_basic_linked_list_basic_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1978_find_prime_number.cpp || cmake_object_order_depends_target_0000_basic_linked_list_basic
+  DEP_FILE = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ\1978_find_prime_number.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ
+
+build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/15829_hashing.cpp.obj: CXX_COMPILER__0000_basic_linked_list_basic_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/15829_hashing.cpp || cmake_object_order_depends_target_0000_basic_linked_list_basic
+  DEP_FILE = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ\15829_hashing.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0000_basic_linked_list_basic
@@ -120,7 +144,7 @@ build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/5397.cpp.obj: CXX_COM
 #############################################
 # Link the executable 0000_basic_linked_list_basic.exe
 
-build 0000_basic_linked_list_basic.exe: CXX_EXECUTABLE_LINKER__0000_basic_linked_list_basic_Debug CMakeFiles/0000_basic_linked_list_basic.dir/0000_basic/linked_list_basic.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/main.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/5397.cpp.obj
+build 0000_basic_linked_list_basic.exe: CXX_EXECUTABLE_LINKER__0000_basic_linked_list_basic_Debug CMakeFiles/0000_basic_linked_list_basic.dir/0000_basic/linked_list_basic.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/main.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/5397.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1259_palindrome.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1546_average.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1978_find_prime_number.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/15829_hashing.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
@@ -262,6 +286,138 @@ build 0001_BOJ_5397.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_5397_Debug CMakeFiles/0
   TARGET_IMPLIB = lib0001_BOJ_5397.dll.a
   TARGET_PDB = 0001_BOJ_5397.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_1259_palindrome
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_1259_palindrome
+
+build cmake_object_order_depends_target_0001_BOJ_1259_palindrome: phony || CMakeFiles/0001_BOJ_1259_palindrome.dir
+
+build CMakeFiles/0001_BOJ_1259_palindrome.dir/0001_BOJ/1259_palindrome.cpp.obj: CXX_COMPILER__0001_BOJ_1259_palindrome_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1259_palindrome.cpp || cmake_object_order_depends_target_0001_BOJ_1259_palindrome
+  DEP_FILE = CMakeFiles\0001_BOJ_1259_palindrome.dir\0001_BOJ\1259_palindrome.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_1259_palindrome.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_1259_palindrome.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_1259_palindrome
+
+
+#############################################
+# Link the executable 0001_BOJ_1259_palindrome.exe
+
+build 0001_BOJ_1259_palindrome.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_1259_palindrome_Debug CMakeFiles/0001_BOJ_1259_palindrome.dir/0001_BOJ/1259_palindrome.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_1259_palindrome.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_1259_palindrome.exe
+  TARGET_IMPLIB = lib0001_BOJ_1259_palindrome.dll.a
+  TARGET_PDB = 0001_BOJ_1259_palindrome.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_1546_average
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_1546_average
+
+build cmake_object_order_depends_target_0001_BOJ_1546_average: phony || CMakeFiles/0001_BOJ_1546_average.dir
+
+build CMakeFiles/0001_BOJ_1546_average.dir/0001_BOJ/1546_average.cpp.obj: CXX_COMPILER__0001_BOJ_1546_average_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1546_average.cpp || cmake_object_order_depends_target_0001_BOJ_1546_average
+  DEP_FILE = CMakeFiles\0001_BOJ_1546_average.dir\0001_BOJ\1546_average.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_1546_average.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_1546_average.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_1546_average
+
+
+#############################################
+# Link the executable 0001_BOJ_1546_average.exe
+
+build 0001_BOJ_1546_average.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_1546_average_Debug CMakeFiles/0001_BOJ_1546_average.dir/0001_BOJ/1546_average.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_1546_average.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_1546_average.exe
+  TARGET_IMPLIB = lib0001_BOJ_1546_average.dll.a
+  TARGET_PDB = 0001_BOJ_1546_average.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_1978_find_prime_number
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_1978_find_prime_number
+
+build cmake_object_order_depends_target_0001_BOJ_1978_find_prime_number: phony || CMakeFiles/0001_BOJ_1978_find_prime_number.dir
+
+build CMakeFiles/0001_BOJ_1978_find_prime_number.dir/0001_BOJ/1978_find_prime_number.cpp.obj: CXX_COMPILER__0001_BOJ_1978_find_prime_number_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1978_find_prime_number.cpp || cmake_object_order_depends_target_0001_BOJ_1978_find_prime_number
+  DEP_FILE = CMakeFiles\0001_BOJ_1978_find_prime_number.dir\0001_BOJ\1978_find_prime_number.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_1978_find_prime_number.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_1978_find_prime_number.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_1978_find_prime_number
+
+
+#############################################
+# Link the executable 0001_BOJ_1978_find_prime_number.exe
+
+build 0001_BOJ_1978_find_prime_number.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_1978_find_prime_number_Debug CMakeFiles/0001_BOJ_1978_find_prime_number.dir/0001_BOJ/1978_find_prime_number.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_1978_find_prime_number.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_1978_find_prime_number.exe
+  TARGET_IMPLIB = lib0001_BOJ_1978_find_prime_number.dll.a
+  TARGET_PDB = 0001_BOJ_1978_find_prime_number.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_15829_hashing
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_15829_hashing
+
+build cmake_object_order_depends_target_0001_BOJ_15829_hashing: phony || CMakeFiles/0001_BOJ_15829_hashing.dir
+
+build CMakeFiles/0001_BOJ_15829_hashing.dir/0001_BOJ/15829_hashing.cpp.obj: CXX_COMPILER__0001_BOJ_15829_hashing_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/15829_hashing.cpp || cmake_object_order_depends_target_0001_BOJ_15829_hashing
+  DEP_FILE = CMakeFiles\0001_BOJ_15829_hashing.dir\0001_BOJ\15829_hashing.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_15829_hashing.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_15829_hashing.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_15829_hashing
+
+
+#############################################
+# Link the executable 0001_BOJ_15829_hashing.exe
+
+build 0001_BOJ_15829_hashing.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_15829_hashing_Debug CMakeFiles/0001_BOJ_15829_hashing.dir/0001_BOJ/15829_hashing.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_15829_hashing.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_15829_hashing.exe
+  TARGET_IMPLIB = lib0001_BOJ_15829_hashing.dll.a
+  TARGET_PDB = 0001_BOJ_15829_hashing.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -296,6 +452,14 @@ build 0000_basic_list_stl: phony 0000_basic_list_stl.exe
 
 build 0000_basic_recursion: phony 0000_basic_recursion.exe
 
+build 0001_BOJ_1259_palindrome: phony 0001_BOJ_1259_palindrome.exe
+
+build 0001_BOJ_1546_average: phony 0001_BOJ_1546_average.exe
+
+build 0001_BOJ_15829_hashing: phony 0001_BOJ_15829_hashing.exe
+
+build 0001_BOJ_1978_find_prime_number: phony 0001_BOJ_1978_find_prime_number.exe
+
 build 0001_BOJ_5397: phony 0001_BOJ_5397.exe
 
 build main: phony main.exe
@@ -308,7 +472,7 @@ build main: phony main.exe
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0000_basic_recursion.exe 0000_basic_linked_list_basic.exe 0000_basic_list_stk.exe 0000_basic_list_stl.exe main.exe 0001_BOJ_5397.exe
+build all: phony 0000_basic_recursion.exe 0000_basic_linked_list_basic.exe 0000_basic_list_stk.exe 0000_basic_list_stl.exe main.exe 0001_BOJ_5397.exe 0001_BOJ_1259_palindrome.exe 0001_BOJ_1546_average.exe 0001_BOJ_1978_find_prime_number.exe 0001_BOJ_15829_hashing.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.

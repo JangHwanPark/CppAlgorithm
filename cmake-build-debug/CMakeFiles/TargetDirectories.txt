@@ -4,5 +4,9 @@ C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_bas
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_basic_list_stl.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/main.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_5397.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_1259_palindrome.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_1546_average.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_1978_find_prime_number.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_15829_hashing.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
