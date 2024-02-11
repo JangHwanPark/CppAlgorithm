@@ -13,7 +13,7 @@ add_executable(0000_basic_linked_list_basic 0000_basic/linked_list_basic.cpp
         0001_BOJ/1926_painting.cpp
         0001_BOJ/2609_gcd_lcm.cpp
         0001_BOJ/2609_gcd_lcm_solution.cpp
-        0001_BOJ/1411_similar_words.cpp 0001_BOJ/1934_lcm.cpp 0001_BOJ/1037_divisior.cpp)
+        0001_BOJ/1411_similar_words.cpp 0001_BOJ/1934_lcm.cpp 0001_BOJ/1037_divisior.cpp 0001_BOJ/1157_word_study.cpp)
 add_executable(0000_basic_list_stk 0000_basic/list_stl.cpp)
 add_executable(0000_basic_list_stl 0000_basic/list_stl.cpp)
 add_executable(main main.cpp)
