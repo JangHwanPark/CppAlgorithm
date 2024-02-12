@@ -2,16 +2,30 @@
 using namespace std;
 
 int main() {
-    int a, b;
-    cin >> a >> b;
+    int dwarfs[10];
+    int totalDwarfsSum = 0;
 
-    string s1 = to_string(a);
-    reverse(s1.begin(), s1.end());
+    // 9명의 난쟁이 키 입력
+    for (int i = 0; i < 9; i++) {
+        cin >> dwarfs[i];
+        totalDwarfsSum += dwarfs[i];
+    }
 
-    string s2 = to_string(b);
-    reverse(s2.begin(), s2.end());
+    // 오름차순 정렬
+    sort(dwarfs, dwarfs + 9);
 
-    if (s1 > s2) cout << atoi(s1.c_str());
-    else cout << atoi(s2.c_str());
+    // 두명의 난쟁이 찾기
+    for (int i = 0; i < 9; i++) {
+        for (int j = i + 1; j < 9; j++) {
+            if (totalDwarfsSum - (dwarfs[i] + dwarfs[j]) == 100) {
+                for (int k = 0; k < 9; k++) {
+                    if (i == k || j == k) continue;
+                    cout << dwarfs[k] << "\n";
+                }
+                return 0;
+            }
+        }
+    }
+
     return 0;
 }

@@ -13,7 +13,9 @@ add_executable(0000_basic_linked_list_basic 0000_basic/linked_list_basic.cpp
         0001_BOJ/1926_painting.cpp
         0001_BOJ/2609_gcd_lcm.cpp
         0001_BOJ/2609_gcd_lcm_solution.cpp
-        0001_BOJ/1411_similar_words.cpp 0001_BOJ/1934_lcm.cpp 0001_BOJ/1037_divisior.cpp 0001_BOJ/1157_word_study.cpp)
+        0001_BOJ/1411_similar_words.cpp 0001_BOJ/1934_lcm.cpp 0001_BOJ/1037_divisior.cpp 0001_BOJ/1157_word_study.cpp
+        0001_BOJ/1264_number_of_vowels.cpp
+        0001_BOJ/2309_seven_dwarfs.cpp)
 add_executable(0000_basic_list_stk 0000_basic/list_stl.cpp)
 add_executable(0000_basic_list_stl 0000_basic/list_stl.cpp)
 add_executable(main main.cpp)
@@ -24,3 +26,4 @@ add_executable(0001_BOJ_1978_find_prime_number 0001_BOJ/1978_find_prime_number.c
 add_executable(0001_BOJ_15829_hashing 0001_BOJ/15829_hashing.cpp)
 add_executable(0001_BOJ_1260_dfs_and_bfs 0001_BOJ/1260_dfs_and_bfs.cpp)
 add_executable(0001_BOJ_2609_gcd_lcm_solution 0001_BOJ/2609_gcd_lcm_solution.cpp)
+add_executable(0001_BOJ_1264_number_of_vowels 0001_BOJ/1264_number_of_vowels.cpp)
