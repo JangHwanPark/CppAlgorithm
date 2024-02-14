@@ -17,7 +17,10 @@ add_executable(0000_basic_linked_list_basic 0000_basic/linked_list_basic.cpp
         0001_BOJ/1264_number_of_vowels.cpp
         0001_BOJ/2309_seven_dwarfs.cpp
         0001_BOJ/11441_Find_the_Sum.cpp
-        0001_BOJ/1012_oraganic_cabbage.cpp)
+        0001_BOJ/1012_oraganic_cabbage.cpp
+        0001_BOJ/1159_basktball_game.cpp
+        0001_BOJ/2979_truck_parking.cpp
+        0001_BOJ/10988_determining_if_it_is_a_palindrome.cpp)
 add_executable(0000_basic_list_stk 0000_basic/list_stl.cpp)
 add_executable(0000_basic_list_stl 0000_basic/list_stl.cpp)
 add_executable(main main.cpp)
@@ -30,3 +33,4 @@ add_executable(0001_BOJ_1260_dfs_and_bfs 0001_BOJ/1260_dfs_and_bfs.cpp)
 add_executable(0001_BOJ_2609_gcd_lcm_solution 0001_BOJ/2609_gcd_lcm_solution.cpp)
 add_executable(0001_BOJ_1264_number_of_vowels 0001_BOJ/1264_number_of_vowels.cpp)
 add_executable(0001_BOJ_11441_Find_the_Sum 0001_BOJ/11441_Find_the_Sum.cpp)
+add_executable(0001_BOJ_10988_determining_if_it_is_a_palindrome 0001_BOJ/10988_determining_if_it_is_a_palindrome.cpp)

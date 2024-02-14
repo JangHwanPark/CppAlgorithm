@@ -208,6 +208,24 @@ build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1012_oraganic_cabbage
   OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
   OBJECT_FILE_DIR = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ
 
+build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1159_basktball_game.cpp.obj: CXX_COMPILER__0000_basic_linked_list_basic_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1159_basktball_game.cpp || cmake_object_order_depends_target_0000_basic_linked_list_basic
+  DEP_FILE = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ\1159_basktball_game.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ
+
+build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/2979_truck_parking.cpp.obj: CXX_COMPILER__0000_basic_linked_list_basic_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/2979_truck_parking.cpp || cmake_object_order_depends_target_0000_basic_linked_list_basic
+  DEP_FILE = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ\2979_truck_parking.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ
+
+build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/10988_determining_if_it_is_a_palindrome.cpp.obj: CXX_COMPILER__0000_basic_linked_list_basic_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/10988_determining_if_it_is_a_palindrome.cpp || cmake_object_order_depends_target_0000_basic_linked_list_basic
+  DEP_FILE = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ\10988_determining_if_it_is_a_palindrome.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_linked_list_basic.dir\0001_BOJ
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0000_basic_linked_list_basic
@@ -216,7 +234,7 @@ build CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1012_oraganic_cabbage
 #############################################
 # Link the executable 0000_basic_linked_list_basic.exe
 
-build 0000_basic_linked_list_basic.exe: CXX_EXECUTABLE_LINKER__0000_basic_linked_list_basic_Debug CMakeFiles/0000_basic_linked_list_basic.dir/0000_basic/linked_list_basic.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/main.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/5397.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1259_palindrome.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1546_average.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1978_find_prime_number.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/15829_hashing.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1260_dfs_and_bfs.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1926_painting.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/2609_gcd_lcm.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/2609_gcd_lcm_solution.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1411_similar_words.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1934_lcm.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1037_divisior.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1157_word_study.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1264_number_of_vowels.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/2309_seven_dwarfs.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/11441_Find_the_Sum.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1012_oraganic_cabbage.cpp.obj
+build 0000_basic_linked_list_basic.exe: CXX_EXECUTABLE_LINKER__0000_basic_linked_list_basic_Debug CMakeFiles/0000_basic_linked_list_basic.dir/0000_basic/linked_list_basic.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/main.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/5397.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1259_palindrome.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1546_average.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1978_find_prime_number.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/15829_hashing.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1260_dfs_and_bfs.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1926_painting.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/2609_gcd_lcm.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/2609_gcd_lcm_solution.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1411_similar_words.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1934_lcm.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1037_divisior.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1157_word_study.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1264_number_of_vowels.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/2309_seven_dwarfs.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/11441_Find_the_Sum.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1012_oraganic_cabbage.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/1159_basktball_game.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/2979_truck_parking.cpp.obj CMakeFiles/0000_basic_linked_list_basic.dir/0001_BOJ/10988_determining_if_it_is_a_palindrome.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0000_basic_linked_list_basic.dir
@@ -622,6 +640,39 @@ build 0001_BOJ_11441_Find_the_Sum.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_11441_Fin
   TARGET_IMPLIB = lib0001_BOJ_11441_Find_the_Sum.dll.a
   TARGET_PDB = 0001_BOJ_11441_Find_the_Sum.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_10988_determining_if_it_is_a_palindrome
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_10988_determining_if_it_is_a_palindrome
+
+build cmake_object_order_depends_target_0001_BOJ_10988_determining_if_it_is_a_palindrome: phony || CMakeFiles/0001_BOJ_10988_determining_if_it_is_a_palindrome.dir
+
+build CMakeFiles/0001_BOJ_10988_determining_if_it_is_a_palindrome.dir/0001_BOJ/10988_determining_if_it_is_a_palindrome.cpp.obj: CXX_COMPILER__0001_BOJ_10988_determining_if_it_is_a_palindrome_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/10988_determining_if_it_is_a_palindrome.cpp || cmake_object_order_depends_target_0001_BOJ_10988_determining_if_it_is_a_palindrome
+  DEP_FILE = CMakeFiles\0001_BOJ_10988_determining_if_it_is_a_palindrome.dir\0001_BOJ\10988_determining_if_it_is_a_palindrome.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_10988_determining_if_it_is_a_palindrome.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_10988_determining_if_it_is_a_palindrome.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_10988_determining_if_it_is_a_palindrome
+
+
+#############################################
+# Link the executable 0001_BOJ_10988_determining_if_it_is_a_palindrome.exe
+
+build 0001_BOJ_10988_determining_if_it_is_a_palindrome.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_10988_determining_if_it_is_a_palindrome_Debug CMakeFiles/0001_BOJ_10988_determining_if_it_is_a_palindrome.dir/0001_BOJ/10988_determining_if_it_is_a_palindrome.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_10988_determining_if_it_is_a_palindrome.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_10988_determining_if_it_is_a_palindrome.exe
+  TARGET_IMPLIB = lib0001_BOJ_10988_determining_if_it_is_a_palindrome.dll.a
+  TARGET_PDB = 0001_BOJ_10988_determining_if_it_is_a_palindrome.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -656,6 +707,8 @@ build 0000_basic_list_stl: phony 0000_basic_list_stl.exe
 
 build 0000_basic_recursion: phony 0000_basic_recursion.exe
 
+build 0001_BOJ_10988_determining_if_it_is_a_palindrome: phony 0001_BOJ_10988_determining_if_it_is_a_palindrome.exe
+
 build 0001_BOJ_11441_Find_the_Sum: phony 0001_BOJ_11441_Find_the_Sum.exe
 
 build 0001_BOJ_1259_palindrome: phony 0001_BOJ_1259_palindrome.exe
@@ -684,7 +737,7 @@ build main: phony main.exe
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0000_basic_recursion.exe 0000_basic_linked_list_basic.exe 0000_basic_list_stk.exe 0000_basic_list_stl.exe main.exe 0001_BOJ_5397.exe 0001_BOJ_1259_palindrome.exe 0001_BOJ_1546_average.exe 0001_BOJ_1978_find_prime_number.exe 0001_BOJ_15829_hashing.exe 0001_BOJ_1260_dfs_and_bfs.exe 0001_BOJ_2609_gcd_lcm_solution.exe 0001_BOJ_1264_number_of_vowels.exe 0001_BOJ_11441_Find_the_Sum.exe
+build all: phony 0000_basic_recursion.exe 0000_basic_linked_list_basic.exe 0000_basic_list_stk.exe 0000_basic_list_stl.exe main.exe 0001_BOJ_5397.exe 0001_BOJ_1259_palindrome.exe 0001_BOJ_1546_average.exe 0001_BOJ_1978_find_prime_number.exe 0001_BOJ_15829_hashing.exe 0001_BOJ_1260_dfs_and_bfs.exe 0001_BOJ_2609_gcd_lcm_solution.exe 0001_BOJ_1264_number_of_vowels.exe 0001_BOJ_11441_Find_the_Sum.exe 0001_BOJ_10988_determining_if_it_is_a_palindrome.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
