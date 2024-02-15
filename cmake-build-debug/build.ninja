@@ -67,6 +67,18 @@ build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.obj: C
   OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
   OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
 
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/01_div2.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\01_div2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce
+
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/02_div2.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/02_div2.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\02_div2.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0001_BOJ_04_Queue_2164_card2
@@ -75,7 +87,7 @@ build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.obj: C
 #############################################
 # Link the executable 0001_BOJ_04_Queue_2164_card2.exe
 
-build 0001_BOJ_04_Queue_2164_card2.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_04_Queue_2164_card2_Debug CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/04_Queue/2164_card2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/01_Array/1919_create_anagram.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.obj
+build 0001_BOJ_04_Queue_2164_card2.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_04_Queue_2164_card2_Debug CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/04_Queue/2164_card2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/01_Array/1919_create_anagram.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/02_div2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
