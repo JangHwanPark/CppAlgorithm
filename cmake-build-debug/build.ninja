@@ -85,17 +85,53 @@ build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/02_TwoPointer/2531_su
   OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
   OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\02_TwoPointer
 
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/00_Sliding_Window.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/00_Sliding_Window.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\00_Sliding_Window.cpp.obj.d
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\03_SlidingWindow\00_Sliding_Window.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\03_SlidingWindow
 
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/01_Two_Pointer.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/01_Two_Pointer.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\01_Two_Pointer.cpp.obj.d
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\02_TwoPointer\01_Two_Pointer.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\02_TwoPointer
+
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/11655_ROT13.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/11655_ROT13.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\11655_ROT13.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
+
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/2559_Sequence.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/2559_Sequence.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\2559_Sequence.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
+
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3\01_thorns_and_coins.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3
+
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3\02_chaya_calendar.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3
+
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3\03_lr_remainders.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3
+
+build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/04_card_game.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
+  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3\04_card_game.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3
 
 
 # =============================================================================
@@ -105,7 +141,7 @@ build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/01_Two_
 #############################################
 # Link the executable 0001_BOJ_04_Queue_2164_card2.exe
 
-build 0001_BOJ_04_Queue_2164_card2.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_04_Queue_2164_card2_Debug CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/04_Queue/2164_card2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/01_Array/1919_create_anagram.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/02_div2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/02_TwoPointer/2531_sushi.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/00_Sliding_Window.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/01_Two_Pointer.cpp.obj
+build 0001_BOJ_04_Queue_2164_card2.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_04_Queue_2164_card2_Debug CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/04_Queue/2164_card2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/01_Array/1919_create_anagram.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/02_div2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/02_TwoPointer/2531_sushi.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/11655_ROT13.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/2559_Sequence.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
@@ -114,6 +150,138 @@ build 0001_BOJ_04_Queue_2164_card2.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_04_Queue
   TARGET_FILE = 0001_BOJ_04_Queue_2164_card2.exe
   TARGET_IMPLIB = lib0001_BOJ_04_Queue_2164_card2.dll.a
   TARGET_PDB = 0001_BOJ_04_Queue_2164_card2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_11655_ROT13
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_11655_ROT13
+
+build cmake_object_order_depends_target_0001_BOJ_11655_ROT13: phony || CMakeFiles/0001_BOJ_11655_ROT13.dir
+
+build CMakeFiles/0001_BOJ_11655_ROT13.dir/0001_BOJ/11655_ROT13.cpp.obj: CXX_COMPILER__0001_BOJ_11655_ROT13_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/11655_ROT13.cpp || cmake_object_order_depends_target_0001_BOJ_11655_ROT13
+  DEP_FILE = CMakeFiles\0001_BOJ_11655_ROT13.dir\0001_BOJ\11655_ROT13.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_11655_ROT13.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_11655_ROT13.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_11655_ROT13
+
+
+#############################################
+# Link the executable 0001_BOJ_11655_ROT13.exe
+
+build 0001_BOJ_11655_ROT13.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_11655_ROT13_Debug CMakeFiles/0001_BOJ_11655_ROT13.dir/0001_BOJ/11655_ROT13.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_11655_ROT13.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_11655_ROT13.exe
+  TARGET_IMPLIB = lib0001_BOJ_11655_ROT13.dll.a
+  TARGET_PDB = 0001_BOJ_11655_ROT13.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_2559_Sequence
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_2559_Sequence
+
+build cmake_object_order_depends_target_0001_BOJ_2559_Sequence: phony || CMakeFiles/0001_BOJ_2559_Sequence.dir
+
+build CMakeFiles/0001_BOJ_2559_Sequence.dir/0001_BOJ/2559_Sequence.cpp.obj: CXX_COMPILER__0001_BOJ_2559_Sequence_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/2559_Sequence.cpp || cmake_object_order_depends_target_0001_BOJ_2559_Sequence
+  DEP_FILE = CMakeFiles\0001_BOJ_2559_Sequence.dir\0001_BOJ\2559_Sequence.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_2559_Sequence.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_2559_Sequence.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_2559_Sequence
+
+
+#############################################
+# Link the executable 0001_BOJ_2559_Sequence.exe
+
+build 0001_BOJ_2559_Sequence.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_2559_Sequence_Debug CMakeFiles/0001_BOJ_2559_Sequence.dir/0001_BOJ/2559_Sequence.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_2559_Sequence.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_2559_Sequence.exe
+  TARGET_IMPLIB = lib0001_BOJ_2559_Sequence.dll.a
+  TARGET_PDB = 0001_BOJ_2559_Sequence.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 0002_CodeForce_2024_02_18_div3_03_lr_remainders
+
+
+#############################################
+# Order-only phony target for 0002_CodeForce_2024_02_18_div3_03_lr_remainders
+
+build cmake_object_order_depends_target_0002_CodeForce_2024_02_18_div3_03_lr_remainders: phony || CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir
+
+build CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.obj: CXX_COMPILER__0002_CodeForce_2024_02_18_div3_03_lr_remainders_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp || cmake_object_order_depends_target_0002_CodeForce_2024_02_18_div3_03_lr_remainders
+  DEP_FILE = CMakeFiles\0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir\0002_CodeForce\2024_02_18_div3\03_lr_remainders.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir
+  OBJECT_FILE_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir\0002_CodeForce\2024_02_18_div3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0002_CodeForce_2024_02_18_div3_03_lr_remainders
+
+
+#############################################
+# Link the executable 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe
+
+build 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe: CXX_EXECUTABLE_LINKER__0002_CodeForce_2024_02_18_div3_03_lr_remainders_Debug CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe
+  TARGET_IMPLIB = lib0002_CodeForce_2024_02_18_div3_03_lr_remainders.dll.a
+  TARGET_PDB = 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 0002_CodeForce_2024_02_18_div3_04_card_game
+
+
+#############################################
+# Order-only phony target for 0002_CodeForce_2024_02_18_div3_04_card_game
+
+build cmake_object_order_depends_target_0002_CodeForce_2024_02_18_div3_04_card_game: phony || CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir
+
+build CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.obj: CXX_COMPILER__0002_CodeForce_2024_02_18_div3_04_card_game_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/04_card_game.cpp || cmake_object_order_depends_target_0002_CodeForce_2024_02_18_div3_04_card_game
+  DEP_FILE = CMakeFiles\0002_CodeForce_2024_02_18_div3_04_card_game.dir\0002_CodeForce\2024_02_18_div3\04_card_game.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_04_card_game.dir
+  OBJECT_FILE_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_04_card_game.dir\0002_CodeForce\2024_02_18_div3
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0002_CodeForce_2024_02_18_div3_04_card_game
+
+
+#############################################
+# Link the executable 0002_CodeForce_2024_02_18_div3_04_card_game.exe
+
+build 0002_CodeForce_2024_02_18_div3_04_card_game.exe: CXX_EXECUTABLE_LINKER__0002_CodeForce_2024_02_18_div3_04_card_game_Debug CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_04_card_game.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0002_CodeForce_2024_02_18_div3_04_card_game.exe
+  TARGET_IMPLIB = lib0002_CodeForce_2024_02_18_div3_04_card_game.dll.a
+  TARGET_PDB = 0002_CodeForce_2024_02_18_div3_04_card_game.exe.dbg
 
 
 #############################################
@@ -143,6 +311,14 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build 0001_BOJ_04_Queue_2164_card2: phony 0001_BOJ_04_Queue_2164_card2.exe
 
+build 0001_BOJ_11655_ROT13: phony 0001_BOJ_11655_ROT13.exe
+
+build 0001_BOJ_2559_Sequence: phony 0001_BOJ_2559_Sequence.exe
+
+build 0002_CodeForce_2024_02_18_div3_03_lr_remainders: phony 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe
+
+build 0002_CodeForce_2024_02_18_div3_04_card_game: phony 0002_CodeForce_2024_02_18_div3_04_card_game.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -151,7 +327,7 @@ build 0001_BOJ_04_Queue_2164_card2: phony 0001_BOJ_04_Queue_2164_card2.exe
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0001_BOJ_04_Queue_2164_card2.exe
+build all: phony 0001_BOJ_04_Queue_2164_card2.exe 0001_BOJ_11655_ROT13.exe 0001_BOJ_2559_Sequence.exe 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe 0002_CodeForce_2024_02_18_div3_04_card_game.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
