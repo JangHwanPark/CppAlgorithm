@@ -12,7 +12,7 @@ add_executable(0001_BOJ_04_Queue_2164_card2 0001_BOJ/04_Queue/2164_card2.cpp
         0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp
         0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp
         0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp
-        0002_CodeForce/2024_02_18_div3/04_card_game.cpp)
+        0002_CodeForce/2024_02_18_div3/04_card_game.cpp 0001_BOJ/1620_pokemon_master.cpp)
 add_executable(0001_BOJ_11655_ROT13 0001_BOJ/11655_ROT13.cpp)
 add_executable(0001_BOJ_2559_Sequence 0001_BOJ/2559_Sequence.cpp)
 add_executable(0002_CodeForce_2024_02_18_div3_03_lr_remainders 0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp)
