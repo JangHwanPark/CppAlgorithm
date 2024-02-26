@@ -1,7 +1,8 @@
-/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir
-/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_11655_ROT13.dir
-/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_2559_Sequence.dir
-/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir
-/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir
-/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_11655_ROT13.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_2559_Sequence.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_basic_01_frequency_pattem.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
