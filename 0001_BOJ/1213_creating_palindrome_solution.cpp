@@ -21,6 +21,7 @@ int main() {
             }
 
             if (flag == 2) break;
+
             for (int j = 0; j < cnt[i]; j += 2) {
                 ret = char(i) + ret;
                 ret += char(i);
