@@ -328,6 +328,24 @@ build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_frequency_patt
   OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
   OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic
 
+build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/02_combinatorics.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/02_combinatorics.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
+  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\02_combinatorics.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic
+
+build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_combination.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/00_combination_permutation/00_combination.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
+  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\00_combination_permutation\00_combination.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\00_combination_permutation
+
+build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_permutation.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/00_combination_permutation/00_permutation.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
+  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\00_combination_permutation\00_permutation.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\00_combination_permutation
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0000_basic_01_frequency_pattem
@@ -336,7 +354,7 @@ build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_frequency_patt
 #############################################
 # Link the executable 0000_basic_01_frequency_pattem.exe
 
-build 0000_basic_01_frequency_pattem.exe: CXX_EXECUTABLE_LINKER__0000_basic_01_frequency_pattem_Debug CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_frequency_pattem.cpp.obj
+build 0000_basic_01_frequency_pattem.exe: CXX_EXECUTABLE_LINKER__0000_basic_01_frequency_pattem_Debug CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_frequency_pattem.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/02_combinatorics.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_combination.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_permutation.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir

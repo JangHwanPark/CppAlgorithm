@@ -24,6 +24,10 @@ void func(int cnt, int n) {
     cout << "라고 답변하였지." << "\n";
 }
 
+void recursionFn() {
+
+}
+
 int main() {
     int n;
     cin >> n;
