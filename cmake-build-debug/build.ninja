@@ -346,6 +346,18 @@ build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_pe
   OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
   OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\00_combination_permutation
 
+build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_recursion/01_factorial.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/01_recursion/01_factorial.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
+  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\01_recursion\01_factorial.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\01_recursion
+
+build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_recursion/02_fibonacci.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/01_recursion/02_fibonacci.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
+  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\01_recursion\02_fibonacci.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\01_recursion
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0000_basic_01_frequency_pattem
@@ -354,7 +366,7 @@ build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_pe
 #############################################
 # Link the executable 0000_basic_01_frequency_pattem.exe
 
-build 0000_basic_01_frequency_pattem.exe: CXX_EXECUTABLE_LINKER__0000_basic_01_frequency_pattem_Debug CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_frequency_pattem.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/02_combinatorics.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_combination.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_permutation.cpp.obj
+build 0000_basic_01_frequency_pattem.exe: CXX_EXECUTABLE_LINKER__0000_basic_01_frequency_pattem_Debug CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_frequency_pattem.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/02_combinatorics.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_combination.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_permutation.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_recursion/01_factorial.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_recursion/02_fibonacci.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
@@ -463,6 +475,39 @@ build 0001_BOJ_9375_fashion_king_shin_hae-bin.exe: CXX_EXECUTABLE_LINKER__0001_B
   TARGET_IMPLIB = lib0001_BOJ_9375_fashion_king_shin_hae-bin.dll.a
   TARGET_PDB = 0001_BOJ_9375_fashion_king_shin_hae-bin.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_9375_fashion_king_shin_hae-bin_solution
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_9375_fashion_king_shin_hae-bin_solution
+
+build cmake_object_order_depends_target_0001_BOJ_9375_fashion_king_shin_hae-bin_solution: phony || CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir
+
+build CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir/0001_BOJ/9375_fashion_king_shin_hae-bin_solution.cpp.obj: CXX_COMPILER__0001_BOJ_9375_fashion_king_shin_hae-bin_solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/9375_fashion_king_shin_hae-bin_solution.cpp || cmake_object_order_depends_target_0001_BOJ_9375_fashion_king_shin_hae-bin_solution
+  DEP_FILE = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir\0001_BOJ\9375_fashion_king_shin_hae-bin_solution.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir\0001_BOJ
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_9375_fashion_king_shin_hae-bin_solution
+
+
+#############################################
+# Link the executable 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe
+
+build 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_9375_fashion_king_shin_hae-bin_solution_Debug CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir/0001_BOJ/9375_fashion_king_shin_hae-bin_solution.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe
+  TARGET_IMPLIB = lib0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dll.a
+  TARGET_PDB = 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -503,6 +548,8 @@ build 0001_BOJ_2559_Sequence: phony 0001_BOJ_2559_Sequence.exe
 
 build 0001_BOJ_9375_fashion_king_shin_hae-bin: phony 0001_BOJ_9375_fashion_king_shin_hae-bin.exe
 
+build 0001_BOJ_9375_fashion_king_shin_hae-bin_solution: phony 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe
+
 build 0002_CodeForce_2024_02_18_div3_03_lr_remainders: phony 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe
 
 build 0002_CodeForce_2024_02_18_div3_04_card_game: phony 0002_CodeForce_2024_02_18_div3_04_card_game.exe
@@ -515,7 +562,7 @@ build 0002_CodeForce_2024_02_18_div3_04_card_game: phony 0002_CodeForce_2024_02_
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0001_BOJ_04_Queue_2164_card2.exe 0001_BOJ_11655_ROT13.exe 0001_BOJ_2559_Sequence.exe 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe 0002_CodeForce_2024_02_18_div3_04_card_game.exe 0000_basic_01_frequency_pattem.exe 0001_BOJ_1213_creating_palindrome_solution.exe 0001_BOJ_1213_creating_palindrome.exe 0001_BOJ_9375_fashion_king_shin_hae-bin.exe
+build all: phony 0001_BOJ_04_Queue_2164_card2.exe 0001_BOJ_11655_ROT13.exe 0001_BOJ_2559_Sequence.exe 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe 0002_CodeForce_2024_02_18_div3_04_card_game.exe 0000_basic_01_frequency_pattem.exe 0001_BOJ_1213_creating_palindrome_solution.exe 0001_BOJ_1213_creating_palindrome.exe 0001_BOJ_9375_fashion_king_shin_hae-bin.exe 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.

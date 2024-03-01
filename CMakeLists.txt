@@ -24,7 +24,10 @@ add_executable(0002_CodeForce_2024_02_18_div3_04_card_game 0002_CodeForce/2024_0
 add_executable(0000_basic_01_frequency_pattem 0000_basic/01_frequency_pattem.cpp
         0000_basic/02_combinatorics.cpp
         0000_basic/00_combination_permutation/00_combination.cpp
-        0000_basic/00_combination_permutation/00_permutation.cpp)
+        0000_basic/00_combination_permutation/00_permutation.cpp
+        0000_basic/01_recursion/01_factorial.cpp
+        0000_basic/01_recursion/02_fibonacci.cpp)
 add_executable(0001_BOJ_1213_creating_palindrome_solution 0001_BOJ/1213_creating_palindrome_solution.cpp)
 add_executable(0001_BOJ_1213_creating_palindrome 0001_BOJ/1213_creating_palindrome.cpp)
 add_executable(0001_BOJ_9375_fashion_king_shin_hae-bin 0001_BOJ/9375_fashion_king_shin_hae-bin.cpp)
+add_executable(0001_BOJ_9375_fashion_king_shin_hae-bin_solution 0001_BOJ/9375_fashion_king_shin_hae-bin_solution.cpp)
