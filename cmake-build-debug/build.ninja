@@ -41,511 +41,70 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_04_Queue_2164_card2
+# Object build statements for EXECUTABLE target 0001_BOJ_00_section1_1940_Jumong_Solution
 
 
 #############################################
-# Order-only phony target for 0001_BOJ_04_Queue_2164_card2
+# Order-only phony target for 0001_BOJ_00_section1_1940_Jumong_Solution
 
-build cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2: phony || CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir
+build cmake_object_order_depends_target_0001_BOJ_00_section1_1940_Jumong_Solution: phony || CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir
 
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/04_Queue/2164_card2.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/04_Queue/2164_card2.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\04_Queue\2164_card2.cpp.obj.d
+build CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1940_Jumong_Solution.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_1940_Jumong_Solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/1940_Jumong_Solution.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_1940_Jumong_Solution
+  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1\1940_Jumong_Solution.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\04_Queue
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/01_Array/1919_create_anagram.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/01_Array/1919_create_anagram.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\01_Array\1919_create_anagram.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\01_Array
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/9996_VJEKO.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\9996_VJEKO.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/01_div2.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\01_div2.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/02_div2.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/02_div2.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\02_div2.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/02_TwoPointer/2531_sushi.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/02_TwoPointer/2531_sushi.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\02_TwoPointer\2531_sushi.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\02_TwoPointer
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\03_SlidingWindow\00_Sliding_Window.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\03_SlidingWindow
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\02_TwoPointer\01_Two_Pointer.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_Algorithm_Pattern\02_TwoPointer
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/11655_ROT13.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/11655_ROT13.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\11655_ROT13.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/2559_Sequence.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/2559_Sequence.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\2559_Sequence.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3\01_thorns_and_coins.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3\02_chaya_calendar.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3\03_lr_remainders.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/04_card_game.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3\04_card_game.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0002_CodeForce\2024_02_18_div3
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/1620_pokemon_master.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1620_pokemon_master.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\1620_pokemon_master.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/1213_creating_palindrome.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1213_creating_palindrome.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\1213_creating_palindrome.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_basic/01_frequency_pattem.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/01_frequency_pattem.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_basic\01_frequency_pattem.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0000_basic
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/1213_creating_palindrome_solution.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1213_creating_palindrome_solution.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\1213_creating_palindrome_solution.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
-
-build CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9375_fashion_king_shin_hae-bin.cpp.obj: CXX_COMPILER__0001_BOJ_04_Queue_2164_card2_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/9375_fashion_king_shin_hae-bin.cpp || cmake_object_order_depends_target_0001_BOJ_04_Queue_2164_card2
-  DEP_FILE = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ\9375_fashion_king_shin_hae-bin.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir\0001_BOJ
+  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_04_Queue_2164_card2
+# Link build statements for EXECUTABLE target 0001_BOJ_00_section1_1940_Jumong_Solution
 
 
 #############################################
-# Link the executable 0001_BOJ_04_Queue_2164_card2.exe
+# Link the executable 0001_BOJ_00_section1_1940_Jumong_Solution.exe
 
-build 0001_BOJ_04_Queue_2164_card2.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_04_Queue_2164_card2_Debug CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/04_Queue/2164_card2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/01_Array/1919_create_anagram.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/02_div2.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/02_TwoPointer/2531_sushi.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/11655_ROT13.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/2559_Sequence.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/1620_pokemon_master.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/1213_creating_palindrome.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_basic/01_frequency_pattem.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/1213_creating_palindrome_solution.cpp.obj CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9375_fashion_king_shin_hae-bin.cpp.obj
+build 0001_BOJ_00_section1_1940_Jumong_Solution.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_00_section1_1940_Jumong_Solution_Debug CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1940_Jumong_Solution.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_04_Queue_2164_card2.dir
+  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_04_Queue_2164_card2.exe
-  TARGET_IMPLIB = lib0001_BOJ_04_Queue_2164_card2.dll.a
-  TARGET_PDB = 0001_BOJ_04_Queue_2164_card2.exe.dbg
+  TARGET_FILE = 0001_BOJ_00_section1_1940_Jumong_Solution.exe
+  TARGET_IMPLIB = lib0001_BOJ_00_section1_1940_Jumong_Solution.dll.a
+  TARGET_PDB = 0001_BOJ_00_section1_1940_Jumong_Solution.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_11655_ROT13
+# Object build statements for EXECUTABLE target 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
 
 
 #############################################
-# Order-only phony target for 0001_BOJ_11655_ROT13
+# Order-only phony target for 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
 
-build cmake_object_order_depends_target_0001_BOJ_11655_ROT13: phony || CMakeFiles/0001_BOJ_11655_ROT13.dir
+build cmake_object_order_depends_target_0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer: phony || CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
 
-build CMakeFiles/0001_BOJ_11655_ROT13.dir/0001_BOJ/11655_ROT13.cpp.obj: CXX_COMPILER__0001_BOJ_11655_ROT13_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/11655_ROT13.cpp || cmake_object_order_depends_target_0001_BOJ_11655_ROT13
-  DEP_FILE = CMakeFiles\0001_BOJ_11655_ROT13.dir\0001_BOJ\11655_ROT13.cpp.obj.d
+build CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.obj: CXX_COMPILER__0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp || cmake_object_order_depends_target_0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
+  DEP_FILE = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_Algorithm_Pattern\02_TwoPointer\01_Two_Pointer.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_11655_ROT13.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_11655_ROT13.dir\0001_BOJ
+  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_Algorithm_Pattern\02_TwoPointer
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_11655_ROT13
+# Link build statements for EXECUTABLE target 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
 
 
 #############################################
-# Link the executable 0001_BOJ_11655_ROT13.exe
+# Link the executable 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe
 
-build 0001_BOJ_11655_ROT13.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_11655_ROT13_Debug CMakeFiles/0001_BOJ_11655_ROT13.dir/0001_BOJ/11655_ROT13.cpp.obj
+build 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe: CXX_EXECUTABLE_LINKER__0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer_Debug CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_11655_ROT13.dir
+  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_11655_ROT13.exe
-  TARGET_IMPLIB = lib0001_BOJ_11655_ROT13.dll.a
-  TARGET_PDB = 0001_BOJ_11655_ROT13.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_2559_Sequence
-
-
-#############################################
-# Order-only phony target for 0001_BOJ_2559_Sequence
-
-build cmake_object_order_depends_target_0001_BOJ_2559_Sequence: phony || CMakeFiles/0001_BOJ_2559_Sequence.dir
-
-build CMakeFiles/0001_BOJ_2559_Sequence.dir/0001_BOJ/2559_Sequence.cpp.obj: CXX_COMPILER__0001_BOJ_2559_Sequence_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/2559_Sequence.cpp || cmake_object_order_depends_target_0001_BOJ_2559_Sequence
-  DEP_FILE = CMakeFiles\0001_BOJ_2559_Sequence.dir\0001_BOJ\2559_Sequence.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_2559_Sequence.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_2559_Sequence.dir\0001_BOJ
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_2559_Sequence
-
-
-#############################################
-# Link the executable 0001_BOJ_2559_Sequence.exe
-
-build 0001_BOJ_2559_Sequence.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_2559_Sequence_Debug CMakeFiles/0001_BOJ_2559_Sequence.dir/0001_BOJ/2559_Sequence.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_2559_Sequence.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_2559_Sequence.exe
-  TARGET_IMPLIB = lib0001_BOJ_2559_Sequence.dll.a
-  TARGET_PDB = 0001_BOJ_2559_Sequence.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0002_CodeForce_2024_02_18_div3_03_lr_remainders
-
-
-#############################################
-# Order-only phony target for 0002_CodeForce_2024_02_18_div3_03_lr_remainders
-
-build cmake_object_order_depends_target_0002_CodeForce_2024_02_18_div3_03_lr_remainders: phony || CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir
-
-build CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.obj: CXX_COMPILER__0002_CodeForce_2024_02_18_div3_03_lr_remainders_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp || cmake_object_order_depends_target_0002_CodeForce_2024_02_18_div3_03_lr_remainders
-  DEP_FILE = CMakeFiles\0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir\0002_CodeForce\2024_02_18_div3\03_lr_remainders.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir
-  OBJECT_FILE_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir\0002_CodeForce\2024_02_18_div3
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0002_CodeForce_2024_02_18_div3_03_lr_remainders
-
-
-#############################################
-# Link the executable 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe
-
-build 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe: CXX_EXECUTABLE_LINKER__0002_CodeForce_2024_02_18_div3_03_lr_remainders_Debug CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe
-  TARGET_IMPLIB = lib0002_CodeForce_2024_02_18_div3_03_lr_remainders.dll.a
-  TARGET_PDB = 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0002_CodeForce_2024_02_18_div3_04_card_game
-
-
-#############################################
-# Order-only phony target for 0002_CodeForce_2024_02_18_div3_04_card_game
-
-build cmake_object_order_depends_target_0002_CodeForce_2024_02_18_div3_04_card_game: phony || CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir
-
-build CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.obj: CXX_COMPILER__0002_CodeForce_2024_02_18_div3_04_card_game_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0002_CodeForce/2024_02_18_div3/04_card_game.cpp || cmake_object_order_depends_target_0002_CodeForce_2024_02_18_div3_04_card_game
-  DEP_FILE = CMakeFiles\0002_CodeForce_2024_02_18_div3_04_card_game.dir\0002_CodeForce\2024_02_18_div3\04_card_game.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_04_card_game.dir
-  OBJECT_FILE_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_04_card_game.dir\0002_CodeForce\2024_02_18_div3
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0002_CodeForce_2024_02_18_div3_04_card_game
-
-
-#############################################
-# Link the executable 0002_CodeForce_2024_02_18_div3_04_card_game.exe
-
-build 0002_CodeForce_2024_02_18_div3_04_card_game.exe: CXX_EXECUTABLE_LINKER__0002_CodeForce_2024_02_18_div3_04_card_game_Debug CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0002_CodeForce_2024_02_18_div3_04_card_game.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0002_CodeForce_2024_02_18_div3_04_card_game.exe
-  TARGET_IMPLIB = lib0002_CodeForce_2024_02_18_div3_04_card_game.dll.a
-  TARGET_PDB = 0002_CodeForce_2024_02_18_div3_04_card_game.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0000_basic_01_frequency_pattem
-
-
-#############################################
-# Order-only phony target for 0000_basic_01_frequency_pattem
-
-build cmake_object_order_depends_target_0000_basic_01_frequency_pattem: phony || CMakeFiles/0000_basic_01_frequency_pattem.dir
-
-build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_frequency_pattem.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/01_frequency_pattem.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
-  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\01_frequency_pattem.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic
-
-build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/02_combinatorics.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/02_combinatorics.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
-  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\02_combinatorics.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic
-
-build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_combination.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/00_combination_permutation/00_combination.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
-  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\00_combination_permutation\00_combination.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\00_combination_permutation
-
-build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_permutation.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/00_combination_permutation/00_permutation.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
-  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\00_combination_permutation\00_permutation.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\00_combination_permutation
-
-build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_recursion/01_factorial.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/01_recursion/01_factorial.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
-  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\01_recursion\01_factorial.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\01_recursion
-
-build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_recursion/02_fibonacci.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/01_recursion/02_fibonacci.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
-  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\01_recursion\02_fibonacci.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\01_recursion
-
-build CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/hashTable/00_hashTable.cpp.obj: CXX_COMPILER__0000_basic_01_frequency_pattem_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/hashTable/00_hashTable.cpp || cmake_object_order_depends_target_0000_basic_01_frequency_pattem
-  DEP_FILE = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\hashTable\00_hashTable.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir\0000_basic\hashTable
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0000_basic_01_frequency_pattem
-
-
-#############################################
-# Link the executable 0000_basic_01_frequency_pattem.exe
-
-build 0000_basic_01_frequency_pattem.exe: CXX_EXECUTABLE_LINKER__0000_basic_01_frequency_pattem_Debug CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_frequency_pattem.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/02_combinatorics.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_combination.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_permutation.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_recursion/01_factorial.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_recursion/02_fibonacci.cpp.obj CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/hashTable/00_hashTable.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0000_basic_01_frequency_pattem.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0000_basic_01_frequency_pattem.exe
-  TARGET_IMPLIB = lib0000_basic_01_frequency_pattem.dll.a
-  TARGET_PDB = 0000_basic_01_frequency_pattem.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_1213_creating_palindrome_solution
-
-
-#############################################
-# Order-only phony target for 0001_BOJ_1213_creating_palindrome_solution
-
-build cmake_object_order_depends_target_0001_BOJ_1213_creating_palindrome_solution: phony || CMakeFiles/0001_BOJ_1213_creating_palindrome_solution.dir
-
-build CMakeFiles/0001_BOJ_1213_creating_palindrome_solution.dir/0001_BOJ/1213_creating_palindrome_solution.cpp.obj: CXX_COMPILER__0001_BOJ_1213_creating_palindrome_solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1213_creating_palindrome_solution.cpp || cmake_object_order_depends_target_0001_BOJ_1213_creating_palindrome_solution
-  DEP_FILE = CMakeFiles\0001_BOJ_1213_creating_palindrome_solution.dir\0001_BOJ\1213_creating_palindrome_solution.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_1213_creating_palindrome_solution.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_1213_creating_palindrome_solution.dir\0001_BOJ
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_1213_creating_palindrome_solution
-
-
-#############################################
-# Link the executable 0001_BOJ_1213_creating_palindrome_solution.exe
-
-build 0001_BOJ_1213_creating_palindrome_solution.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_1213_creating_palindrome_solution_Debug CMakeFiles/0001_BOJ_1213_creating_palindrome_solution.dir/0001_BOJ/1213_creating_palindrome_solution.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_1213_creating_palindrome_solution.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_1213_creating_palindrome_solution.exe
-  TARGET_IMPLIB = lib0001_BOJ_1213_creating_palindrome_solution.dll.a
-  TARGET_PDB = 0001_BOJ_1213_creating_palindrome_solution.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_1213_creating_palindrome
-
-
-#############################################
-# Order-only phony target for 0001_BOJ_1213_creating_palindrome
-
-build cmake_object_order_depends_target_0001_BOJ_1213_creating_palindrome: phony || CMakeFiles/0001_BOJ_1213_creating_palindrome.dir
-
-build CMakeFiles/0001_BOJ_1213_creating_palindrome.dir/0001_BOJ/1213_creating_palindrome.cpp.obj: CXX_COMPILER__0001_BOJ_1213_creating_palindrome_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/1213_creating_palindrome.cpp || cmake_object_order_depends_target_0001_BOJ_1213_creating_palindrome
-  DEP_FILE = CMakeFiles\0001_BOJ_1213_creating_palindrome.dir\0001_BOJ\1213_creating_palindrome.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_1213_creating_palindrome.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_1213_creating_palindrome.dir\0001_BOJ
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_1213_creating_palindrome
-
-
-#############################################
-# Link the executable 0001_BOJ_1213_creating_palindrome.exe
-
-build 0001_BOJ_1213_creating_palindrome.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_1213_creating_palindrome_Debug CMakeFiles/0001_BOJ_1213_creating_palindrome.dir/0001_BOJ/1213_creating_palindrome.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_1213_creating_palindrome.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_1213_creating_palindrome.exe
-  TARGET_IMPLIB = lib0001_BOJ_1213_creating_palindrome.dll.a
-  TARGET_PDB = 0001_BOJ_1213_creating_palindrome.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_9375_fashion_king_shin_hae-bin
-
-
-#############################################
-# Order-only phony target for 0001_BOJ_9375_fashion_king_shin_hae-bin
-
-build cmake_object_order_depends_target_0001_BOJ_9375_fashion_king_shin_hae-bin: phony || CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin.dir
-
-build CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin.dir/0001_BOJ/9375_fashion_king_shin_hae-bin.cpp.obj: CXX_COMPILER__0001_BOJ_9375_fashion_king_shin_hae-bin_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/9375_fashion_king_shin_hae-bin.cpp || cmake_object_order_depends_target_0001_BOJ_9375_fashion_king_shin_hae-bin
-  DEP_FILE = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin.dir\0001_BOJ\9375_fashion_king_shin_hae-bin.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin.dir\0001_BOJ
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_9375_fashion_king_shin_hae-bin
-
-
-#############################################
-# Link the executable 0001_BOJ_9375_fashion_king_shin_hae-bin.exe
-
-build 0001_BOJ_9375_fashion_king_shin_hae-bin.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_9375_fashion_king_shin_hae-bin_Debug CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin.dir/0001_BOJ/9375_fashion_king_shin_hae-bin.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_9375_fashion_king_shin_hae-bin.exe
-  TARGET_IMPLIB = lib0001_BOJ_9375_fashion_king_shin_hae-bin.dll.a
-  TARGET_PDB = 0001_BOJ_9375_fashion_king_shin_hae-bin.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_9375_fashion_king_shin_hae-bin_solution
-
-
-#############################################
-# Order-only phony target for 0001_BOJ_9375_fashion_king_shin_hae-bin_solution
-
-build cmake_object_order_depends_target_0001_BOJ_9375_fashion_king_shin_hae-bin_solution: phony || CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir
-
-build CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir/0001_BOJ/9375_fashion_king_shin_hae-bin_solution.cpp.obj: CXX_COMPILER__0001_BOJ_9375_fashion_king_shin_hae-bin_solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/9375_fashion_king_shin_hae-bin_solution.cpp || cmake_object_order_depends_target_0001_BOJ_9375_fashion_king_shin_hae-bin_solution
-  DEP_FILE = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir\0001_BOJ\9375_fashion_king_shin_hae-bin_solution.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir\0001_BOJ
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_9375_fashion_king_shin_hae-bin_solution
-
-
-#############################################
-# Link the executable 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe
-
-build 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_9375_fashion_king_shin_hae-bin_solution_Debug CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir/0001_BOJ/9375_fashion_king_shin_hae-bin_solution.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe
-  TARGET_IMPLIB = lib0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dll.a
-  TARGET_PDB = 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0000_basic_hashTable_00_hashTable
-
-
-#############################################
-# Order-only phony target for 0000_basic_hashTable_00_hashTable
-
-build cmake_object_order_depends_target_0000_basic_hashTable_00_hashTable: phony || CMakeFiles/0000_basic_hashTable_00_hashTable.dir
-
-build CMakeFiles/0000_basic_hashTable_00_hashTable.dir/0000_basic/hashTable/00_hashTable.cpp.obj: CXX_COMPILER__0000_basic_hashTable_00_hashTable_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/hashTable/00_hashTable.cpp || cmake_object_order_depends_target_0000_basic_hashTable_00_hashTable
-  DEP_FILE = CMakeFiles\0000_basic_hashTable_00_hashTable.dir\0000_basic\hashTable\00_hashTable.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_basic_hashTable_00_hashTable.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_basic_hashTable_00_hashTable.dir\0000_basic\hashTable
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0000_basic_hashTable_00_hashTable
-
-
-#############################################
-# Link the executable 0000_basic_hashTable_00_hashTable.exe
-
-build 0000_basic_hashTable_00_hashTable.exe: CXX_EXECUTABLE_LINKER__0000_basic_hashTable_00_hashTable_Debug CMakeFiles/0000_basic_hashTable_00_hashTable.dir/0000_basic/hashTable/00_hashTable.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0000_basic_hashTable_00_hashTable.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0000_basic_hashTable_00_hashTable.exe
-  TARGET_IMPLIB = lib0000_basic_hashTable_00_hashTable.dll.a
-  TARGET_PDB = 0000_basic_hashTable_00_hashTable.exe.dbg
+  TARGET_FILE = 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe
+  TARGET_IMPLIB = lib0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dll.a
+  TARGET_PDB = 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe.dbg
 
 
 #############################################
@@ -573,27 +132,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build 0000_basic_01_frequency_pattem: phony 0000_basic_01_frequency_pattem.exe
+build 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer: phony 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe
 
-build 0000_basic_hashTable_00_hashTable: phony 0000_basic_hashTable_00_hashTable.exe
-
-build 0001_BOJ_04_Queue_2164_card2: phony 0001_BOJ_04_Queue_2164_card2.exe
-
-build 0001_BOJ_11655_ROT13: phony 0001_BOJ_11655_ROT13.exe
-
-build 0001_BOJ_1213_creating_palindrome: phony 0001_BOJ_1213_creating_palindrome.exe
-
-build 0001_BOJ_1213_creating_palindrome_solution: phony 0001_BOJ_1213_creating_palindrome_solution.exe
-
-build 0001_BOJ_2559_Sequence: phony 0001_BOJ_2559_Sequence.exe
-
-build 0001_BOJ_9375_fashion_king_shin_hae-bin: phony 0001_BOJ_9375_fashion_king_shin_hae-bin.exe
-
-build 0001_BOJ_9375_fashion_king_shin_hae-bin_solution: phony 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe
-
-build 0002_CodeForce_2024_02_18_div3_03_lr_remainders: phony 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe
-
-build 0002_CodeForce_2024_02_18_div3_04_card_game: phony 0002_CodeForce_2024_02_18_div3_04_card_game.exe
+build 0001_BOJ_00_section1_1940_Jumong_Solution: phony 0001_BOJ_00_section1_1940_Jumong_Solution.exe
 
 # =============================================================================
 # Folder targets.
@@ -603,7 +144,7 @@ build 0002_CodeForce_2024_02_18_div3_04_card_game: phony 0002_CodeForce_2024_02_
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0001_BOJ_04_Queue_2164_card2.exe 0001_BOJ_11655_ROT13.exe 0001_BOJ_2559_Sequence.exe 0002_CodeForce_2024_02_18_div3_03_lr_remainders.exe 0002_CodeForce_2024_02_18_div3_04_card_game.exe 0000_basic_01_frequency_pattem.exe 0001_BOJ_1213_creating_palindrome_solution.exe 0001_BOJ_1213_creating_palindrome.exe 0001_BOJ_9375_fashion_king_shin_hae-bin.exe 0001_BOJ_9375_fashion_king_shin_hae-bin_solution.exe 0000_basic_hashTable_00_hashTable.exe
+build all: phony 0001_BOJ_00_section1_1940_Jumong_Solution.exe 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.

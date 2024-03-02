@@ -1,13 +1,4 @@
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_11655_ROT13.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_2559_Sequence.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_basic_01_frequency_pattem.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_1213_creating_palindrome_solution.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_1213_creating_palindrome.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_9375_fashion_king_shin_hae-bin_solution.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_basic_hashTable_00_hashTable.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
