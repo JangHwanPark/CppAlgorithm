@@ -4,7 +4,7 @@
 1797	1925	7281509259253824	0000_basic_split.exe	abc723603ef62a84
 14	3653	7307396753074456	CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.obj	100480a179f3b173
 1703	1817	7290285693706605	0001_BOJ_15829_hashing.exe	5ca0985c1aa3cf8d
-1	143	7311262840236397	build.ninja	d0b1247ca235428a
+1	143	7312320971252960	build.ninja	d0b1247ca235428a
 1619	1733	7279789702892760	0001_BOJ_classII.exe	8cad6c6c572206c8
 1587	1708	7279803066194186	0001_BOJ_10818_mix_max.exe	1ce80fd35a68df0b
 1643	1759	7294132438148813	main.exe	80d8c8defd4c1d84
@@ -16,6 +16,7 @@
 3464	6202	7307396778458130	CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.obj	6aee63693c11904e
 1711	1830	7283717879318492	0001_BOJ_1475.exe	cc9f51ecbc1312b
 1642	1789	7290262854265575	0001_BOJ_1978_find_prime_number.exe	acd0619990a046d3
+1698	1814	7312320242455147	0001_BOJ_00_section1_1629_mutiplication.exe	cde97d21e2f93088
 1623	1736	7295840331556524	0001_BOJ_10988_determining_if_it_is_a_palindrome.exe	5f840a2bb0cb27f9
 2069	2202	7307397067180081	0001_BOJ_1213_creating_palindrome_solution.exe	54aaeb6b8730b260
 5	1812	7309921247778504	CMakeFiles/0000_basic_hashTable_00_hashTable.dir/0000_basic/hashTable/00_hashTable.cpp.obj	89d0bd2d09d83ba7
@@ -61,8 +62,8 @@
 29	2658	7310465969088550	CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/00_combination_permutation/00_permutation.cpp.obj	f9c34b7006747a9e
 4	1762	7310511326989885	CMakeFiles/0001_BOJ_00_section1_1940_Jumong.dir/0001_BOJ/00_section1/1940_Jumong.cpp.obj	f58f01b4d17f775a
 5	1603	7310473029236210	CMakeFiles/0000_basic_01_frequency_pattem.dir/0001_BOJ/00_section1/1940_Jumong.cpp.obj	9129c6b77c74f57
-15	2602	7310465968470384	CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/vector.cpp.obj	b4b5d292204c9bee
 2523	4074	7310465983256974	CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/01_recursion/02_fibonacci.cpp.obj	88ef1f075786c683
+15	2602	7310465968470384	CMakeFiles/0000_basic_01_frequency_pattem.dir/0000_basic/vector.cpp.obj	b4b5d292204c9bee
 16	1914	7310525604909057	CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9375_fashion_king_shin_hae-bin.cpp.obj	c2ac50870b5d5eae
 0	1604	7310536756784104	CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.obj	f9731f7dc292aeaf
 1605	1725	7310536757948738	0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe	5b453b4c0ef0b58e
@@ -70,3 +71,6 @@
 7	2224	7311256870306617	CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_basic/Stack/00_Stack_STL.cpp.obj	c69276f0ec013ae7
 3	2000	7311262264114429	CMakeFiles/0000_basic_Stack_01_Stack_Implement_Class.dir/0000_basic/Stack/01_Stack_Implement_Class.cpp.obj	971ee846bdebeed2
 2001	2127	7311262265364113	0000_basic_Stack_01_Stack_Implement_Class.exe	795996bec285a2a1
+4	1698	7312320241331096	CMakeFiles/0001_BOJ_00_section1_1629_mutiplication.dir/0001_BOJ/00_section1/1629_mutiplication.cpp.obj	17e980575c035e56
+0	1561	7312312359865437	CMakeFiles/0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dir/0000_Algorithm_Pattern/DivideAndConquer/00_Divide_and_conquer.cpp.obj	319b88dd03aa9bf
+1562	1678	7312312361002969	0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe	b7f7885c96208a9d
