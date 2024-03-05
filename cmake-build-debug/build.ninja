@@ -73,6 +73,12 @@ build CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_secti
   OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
   OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1
 
+build CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/4375_1.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_1940_Jumong_Solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/4375_1.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_1940_Jumong_Solution
+  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1\4375_1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0001_BOJ_00_section1_1940_Jumong_Solution
@@ -81,7 +87,7 @@ build CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_secti
 #############################################
 # Link the executable 0001_BOJ_00_section1_1940_Jumong_Solution.exe
 
-build 0001_BOJ_00_section1_1940_Jumong_Solution.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_00_section1_1940_Jumong_Solution_Debug CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1940_Jumong_Solution.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/3986_GoodWords.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/3986_GoodWords_Solution.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1629_mutiplication.cpp.obj
+build 0001_BOJ_00_section1_1940_Jumong_Solution.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_00_section1_1940_Jumong_Solution_Debug CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1940_Jumong_Solution.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/3986_GoodWords.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/3986_GoodWords_Solution.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1629_mutiplication.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/4375_1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
@@ -253,6 +259,39 @@ build 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe: CXX_EXE
   TARGET_IMPLIB = lib0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dll.a
   TARGET_PDB = 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_00_section1_4375_1
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_00_section1_4375_1
+
+build cmake_object_order_depends_target_0001_BOJ_00_section1_4375_1: phony || CMakeFiles/0001_BOJ_00_section1_4375_1.dir
+
+build CMakeFiles/0001_BOJ_00_section1_4375_1.dir/0001_BOJ/00_section1/4375_1.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_4375_1_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/4375_1.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_4375_1
+  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_4375_1.dir\0001_BOJ\00_section1\4375_1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_4375_1.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_4375_1.dir\0001_BOJ\00_section1
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_00_section1_4375_1
+
+
+#############################################
+# Link the executable 0001_BOJ_00_section1_4375_1.exe
+
+build 0001_BOJ_00_section1_4375_1.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_00_section1_4375_1_Debug CMakeFiles/0001_BOJ_00_section1_4375_1.dir/0001_BOJ/00_section1/4375_1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_4375_1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_00_section1_4375_1.exe
+  TARGET_IMPLIB = lib0001_BOJ_00_section1_4375_1.dll.a
+  TARGET_PDB = 0001_BOJ_00_section1_4375_1.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -289,6 +328,8 @@ build 0001_BOJ_00_section1_1629_mutiplication: phony 0001_BOJ_00_section1_1629_m
 
 build 0001_BOJ_00_section1_1940_Jumong_Solution: phony 0001_BOJ_00_section1_1940_Jumong_Solution.exe
 
+build 0001_BOJ_00_section1_4375_1: phony 0001_BOJ_00_section1_4375_1.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -297,7 +338,7 @@ build 0001_BOJ_00_section1_1940_Jumong_Solution: phony 0001_BOJ_00_section1_1940
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0001_BOJ_00_section1_1940_Jumong_Solution.exe 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe 0000_basic_Stack_01_Stack_Implement_Class.exe 0001_BOJ_00_section1_1629_mutiplication.exe 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe
+build all: phony 0001_BOJ_00_section1_1940_Jumong_Solution.exe 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe 0000_basic_Stack_01_Stack_Implement_Class.exe 0001_BOJ_00_section1_1629_mutiplication.exe 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe 0001_BOJ_00_section1_4375_1.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
