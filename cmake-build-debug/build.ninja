@@ -41,256 +41,37 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_00_section1_1940_Jumong_Solution
+# Object build statements for EXECUTABLE target 0000_basic_01_array_02_array
 
 
 #############################################
-# Order-only phony target for 0001_BOJ_00_section1_1940_Jumong_Solution
+# Order-only phony target for 0000_basic_01_array_02_array
 
-build cmake_object_order_depends_target_0001_BOJ_00_section1_1940_Jumong_Solution: phony || CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir
+build cmake_object_order_depends_target_0000_basic_01_array_02_array: phony || CMakeFiles/0000_basic_01_array_02_array.dir
 
-build CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1940_Jumong_Solution.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_1940_Jumong_Solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/1940_Jumong_Solution.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_1940_Jumong_Solution
-  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1\1940_Jumong_Solution.cpp.obj.d
+build CMakeFiles/0000_basic_01_array_02_array.dir/0000_basic/01_array/02_array.cpp.obj: CXX_COMPILER__0000_basic_01_array_02_array_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/01_array/02_array.cpp || cmake_object_order_depends_target_0000_basic_01_array_02_array
+  DEP_FILE = CMakeFiles\0000_basic_01_array_02_array.dir\0000_basic\01_array\02_array.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1
-
-build CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/3986_GoodWords.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_1940_Jumong_Solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/3986_GoodWords.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_1940_Jumong_Solution
-  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1\3986_GoodWords.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1
-
-build CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/3986_GoodWords_Solution.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_1940_Jumong_Solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/3986_GoodWords_Solution.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_1940_Jumong_Solution
-  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1\3986_GoodWords_Solution.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1
-
-build CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1629_mutiplication.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_1940_Jumong_Solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/1629_mutiplication.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_1940_Jumong_Solution
-  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1\1629_mutiplication.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1
-
-build CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/4375_1.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_1940_Jumong_Solution_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/4375_1.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_1940_Jumong_Solution
-  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1\4375_1.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir\0001_BOJ\00_section1
+  OBJECT_DIR = CMakeFiles\0000_basic_01_array_02_array.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_array_02_array.dir\0000_basic\01_array
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_00_section1_1940_Jumong_Solution
+# Link build statements for EXECUTABLE target 0000_basic_01_array_02_array
 
 
 #############################################
-# Link the executable 0001_BOJ_00_section1_1940_Jumong_Solution.exe
+# Link the executable 0000_basic_01_array_02_array.exe
 
-build 0001_BOJ_00_section1_1940_Jumong_Solution.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_00_section1_1940_Jumong_Solution_Debug CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1940_Jumong_Solution.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/3986_GoodWords.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/3986_GoodWords_Solution.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/1629_mutiplication.cpp.obj CMakeFiles/0001_BOJ_00_section1_1940_Jumong_Solution.dir/0001_BOJ/00_section1/4375_1.cpp.obj
+build 0000_basic_01_array_02_array.exe: CXX_EXECUTABLE_LINKER__0000_basic_01_array_02_array_Debug CMakeFiles/0000_basic_01_array_02_array.dir/0000_basic/01_array/02_array.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1940_Jumong_Solution.dir
+  OBJECT_DIR = CMakeFiles\0000_basic_01_array_02_array.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_00_section1_1940_Jumong_Solution.exe
-  TARGET_IMPLIB = lib0001_BOJ_00_section1_1940_Jumong_Solution.dll.a
-  TARGET_PDB = 0001_BOJ_00_section1_1940_Jumong_Solution.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
-
-
-#############################################
-# Order-only phony target for 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
-
-build cmake_object_order_depends_target_0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer: phony || CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
-
-build CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.obj: CXX_COMPILER__0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp || cmake_object_order_depends_target_0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
-  DEP_FILE = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_Algorithm_Pattern\02_TwoPointer\01_Two_Pointer.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_Algorithm_Pattern\02_TwoPointer
-
-build CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_basic/Stack/00_Stack_STL.cpp.obj: CXX_COMPILER__0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/Stack/00_Stack_STL.cpp || cmake_object_order_depends_target_0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
-  DEP_FILE = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_basic\Stack\00_Stack_STL.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_basic\Stack
-
-build CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_basic/Stack/01_Stack_Implement_Class.cpp.obj: CXX_COMPILER__0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/Stack/01_Stack_Implement_Class.cpp || cmake_object_order_depends_target_0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
-  DEP_FILE = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_basic\Stack\01_Stack_Implement_Class.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_basic\Stack
-
-build CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_basic/Stack/00_Stack_STL_Optimized.cpp.obj: CXX_COMPILER__0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/Stack/00_Stack_STL_Optimized.cpp || cmake_object_order_depends_target_0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
-  DEP_FILE = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_basic\Stack\00_Stack_STL_Optimized.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_basic\Stack
-
-build CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0001_BOJ/00_section1/1629_mutiplication_Solution.cpp.obj: CXX_COMPILER__0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/1629_mutiplication_Solution.cpp || cmake_object_order_depends_target_0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
-  DEP_FILE = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0001_BOJ\00_section1\1629_mutiplication_Solution.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0001_BOJ\00_section1
-
-build CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_Algorithm_Pattern/DivideAndConquer/00_Divide_and_conquer.cpp.obj: CXX_COMPILER__0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/DivideAndConquer/00_Divide_and_conquer.cpp || cmake_object_order_depends_target_0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
-  DEP_FILE = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_Algorithm_Pattern\DivideAndConquer\00_Divide_and_conquer.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir\0000_Algorithm_Pattern\DivideAndConquer
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer
-
-
-#############################################
-# Link the executable 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe
-
-build 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe: CXX_EXECUTABLE_LINKER__0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer_Debug CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.obj CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_basic/Stack/00_Stack_STL.cpp.obj CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_basic/Stack/01_Stack_Implement_Class.cpp.obj CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_basic/Stack/00_Stack_STL_Optimized.cpp.obj CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0001_BOJ/00_section1/1629_mutiplication_Solution.cpp.obj CMakeFiles/0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir/0000_Algorithm_Pattern/DivideAndConquer/00_Divide_and_conquer.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe
-  TARGET_IMPLIB = lib0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.dll.a
-  TARGET_PDB = 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0000_basic_Stack_01_Stack_Implement_Class
-
-
-#############################################
-# Order-only phony target for 0000_basic_Stack_01_Stack_Implement_Class
-
-build cmake_object_order_depends_target_0000_basic_Stack_01_Stack_Implement_Class: phony || CMakeFiles/0000_basic_Stack_01_Stack_Implement_Class.dir
-
-build CMakeFiles/0000_basic_Stack_01_Stack_Implement_Class.dir/0000_basic/Stack/01_Stack_Implement_Class.cpp.obj: CXX_COMPILER__0000_basic_Stack_01_Stack_Implement_Class_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/Stack/01_Stack_Implement_Class.cpp || cmake_object_order_depends_target_0000_basic_Stack_01_Stack_Implement_Class
-  DEP_FILE = CMakeFiles\0000_basic_Stack_01_Stack_Implement_Class.dir\0000_basic\Stack\01_Stack_Implement_Class.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_basic_Stack_01_Stack_Implement_Class.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_basic_Stack_01_Stack_Implement_Class.dir\0000_basic\Stack
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0000_basic_Stack_01_Stack_Implement_Class
-
-
-#############################################
-# Link the executable 0000_basic_Stack_01_Stack_Implement_Class.exe
-
-build 0000_basic_Stack_01_Stack_Implement_Class.exe: CXX_EXECUTABLE_LINKER__0000_basic_Stack_01_Stack_Implement_Class_Debug CMakeFiles/0000_basic_Stack_01_Stack_Implement_Class.dir/0000_basic/Stack/01_Stack_Implement_Class.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0000_basic_Stack_01_Stack_Implement_Class.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0000_basic_Stack_01_Stack_Implement_Class.exe
-  TARGET_IMPLIB = lib0000_basic_Stack_01_Stack_Implement_Class.dll.a
-  TARGET_PDB = 0000_basic_Stack_01_Stack_Implement_Class.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_00_section1_1629_mutiplication
-
-
-#############################################
-# Order-only phony target for 0001_BOJ_00_section1_1629_mutiplication
-
-build cmake_object_order_depends_target_0001_BOJ_00_section1_1629_mutiplication: phony || CMakeFiles/0001_BOJ_00_section1_1629_mutiplication.dir
-
-build CMakeFiles/0001_BOJ_00_section1_1629_mutiplication.dir/0001_BOJ/00_section1/1629_mutiplication.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_1629_mutiplication_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/1629_mutiplication.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_1629_mutiplication
-  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_1629_mutiplication.dir\0001_BOJ\00_section1\1629_mutiplication.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1629_mutiplication.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_1629_mutiplication.dir\0001_BOJ\00_section1
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_00_section1_1629_mutiplication
-
-
-#############################################
-# Link the executable 0001_BOJ_00_section1_1629_mutiplication.exe
-
-build 0001_BOJ_00_section1_1629_mutiplication.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_00_section1_1629_mutiplication_Debug CMakeFiles/0001_BOJ_00_section1_1629_mutiplication.dir/0001_BOJ/00_section1/1629_mutiplication.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_1629_mutiplication.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_00_section1_1629_mutiplication.exe
-  TARGET_IMPLIB = lib0001_BOJ_00_section1_1629_mutiplication.dll.a
-  TARGET_PDB = 0001_BOJ_00_section1_1629_mutiplication.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer
-
-
-#############################################
-# Order-only phony target for 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer
-
-build cmake_object_order_depends_target_0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer: phony || CMakeFiles/0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dir
-
-build CMakeFiles/0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dir/0000_Algorithm_Pattern/DivideAndConquer/00_Divide_and_conquer.cpp.obj: CXX_COMPILER__0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_Algorithm_Pattern/DivideAndConquer/00_Divide_and_conquer.cpp || cmake_object_order_depends_target_0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer
-  DEP_FILE = CMakeFiles\0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dir\0000_Algorithm_Pattern\DivideAndConquer\00_Divide_and_conquer.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dir
-  OBJECT_FILE_DIR = CMakeFiles\0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dir\0000_Algorithm_Pattern\DivideAndConquer
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer
-
-
-#############################################
-# Link the executable 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe
-
-build 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe: CXX_EXECUTABLE_LINKER__0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer_Debug CMakeFiles/0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dir/0000_Algorithm_Pattern/DivideAndConquer/00_Divide_and_conquer.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe
-  TARGET_IMPLIB = lib0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.dll.a
-  TARGET_PDB = 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_00_section1_4375_1
-
-
-#############################################
-# Order-only phony target for 0001_BOJ_00_section1_4375_1
-
-build cmake_object_order_depends_target_0001_BOJ_00_section1_4375_1: phony || CMakeFiles/0001_BOJ_00_section1_4375_1.dir
-
-build CMakeFiles/0001_BOJ_00_section1_4375_1.dir/0001_BOJ/00_section1/4375_1.cpp.obj: CXX_COMPILER__0001_BOJ_00_section1_4375_1_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/00_section1/4375_1.cpp || cmake_object_order_depends_target_0001_BOJ_00_section1_4375_1
-  DEP_FILE = CMakeFiles\0001_BOJ_00_section1_4375_1.dir\0001_BOJ\00_section1\4375_1.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_4375_1.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_00_section1_4375_1.dir\0001_BOJ\00_section1
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_00_section1_4375_1
-
-
-#############################################
-# Link the executable 0001_BOJ_00_section1_4375_1.exe
-
-build 0001_BOJ_00_section1_4375_1.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_00_section1_4375_1_Debug CMakeFiles/0001_BOJ_00_section1_4375_1.dir/0001_BOJ/00_section1/4375_1.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_00_section1_4375_1.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_00_section1_4375_1.exe
-  TARGET_IMPLIB = lib0001_BOJ_00_section1_4375_1.dll.a
-  TARGET_PDB = 0001_BOJ_00_section1_4375_1.exe.dbg
+  TARGET_FILE = 0000_basic_01_array_02_array.exe
+  TARGET_IMPLIB = lib0000_basic_01_array_02_array.dll.a
+  TARGET_PDB = 0000_basic_01_array_02_array.exe.dbg
 
 
 #############################################
@@ -318,17 +99,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer: phony 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe
-
-build 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer: phony 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe
-
-build 0000_basic_Stack_01_Stack_Implement_Class: phony 0000_basic_Stack_01_Stack_Implement_Class.exe
-
-build 0001_BOJ_00_section1_1629_mutiplication: phony 0001_BOJ_00_section1_1629_mutiplication.exe
-
-build 0001_BOJ_00_section1_1940_Jumong_Solution: phony 0001_BOJ_00_section1_1940_Jumong_Solution.exe
-
-build 0001_BOJ_00_section1_4375_1: phony 0001_BOJ_00_section1_4375_1.exe
+build 0000_basic_01_array_02_array: phony 0000_basic_01_array_02_array.exe
 
 # =============================================================================
 # Folder targets.
@@ -338,7 +109,7 @@ build 0001_BOJ_00_section1_4375_1: phony 0001_BOJ_00_section1_4375_1.exe
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0001_BOJ_00_section1_1940_Jumong_Solution.exe 0000_Algorithm_Pattern_02_TwoPointer_01_Two_Pointer.exe 0000_basic_Stack_01_Stack_Implement_Class.exe 0001_BOJ_00_section1_1629_mutiplication.exe 0000_Algorithm_Pattern_DivideAndConquer_00_Divide_and_conquer.exe 0001_BOJ_00_section1_4375_1.exe
+build all: phony 0000_basic_01_array_02_array.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
