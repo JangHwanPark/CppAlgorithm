@@ -2,20 +2,45 @@
 using namespace std;
 
 void insert(int idx, int num, int arr[], int& len){
-    for (int i = len; i > idx; i--) arr[i] = arr[i - 1];
+    cout << "Set" << "\n";
+    cout << "arr[idx]: " << arr[idx];
+    cout << " idx: " << idx;
+    cout << " len: " << len << "\n";
+    cout << "arr[i]: ";
+    for (int i = 0; i < 3; i++) cout << arr[i] << " ";
+    cout << "\n";
+
+    for (int i = len; i > idx; i--) {
+        arr[i] = arr[i - 1];
+        cout << "arr[i] = arr[i - 1]: " << arr[i] << " " << "\n";
+    }
     arr[idx] = num;
     len++;
 
+    cout << "\n";
+    cout << "Res" << "\n";
     cout << "arr[idx]: " << arr[idx];
     cout << " idx: " << idx;
     cout << " len: " << len << "\n";
 }
 
 void erase(int idx, int arr[], int& len){
+    cout << "Set" << "\n";
+    cout << "arr[idx]: " << arr[idx];
+    cout << " idx: " << idx;
+    cout << " len: " << len << "\n";
+    cout << "arr[i]: ";
+    for (int i = 0; i < 3; i++) cout << arr[i] << " ";
+    cout << "\n";
+
     len--;
-    for (int i = idx; i < len; i++) arr[idx] = arr[i + 1];
+    for (int i = idx; i < len; i++) {
+        arr[idx] = arr[i + 1];
+        cout << "arr[i] = arr[i + 1]: " << arr[i] << " " << "\n";
+    }
 
     cout << "\n";
+    cout << "Res" << "\n";
     cout << "arr[idx]: " << arr[idx];
     cout << " idx: " << idx;
     cout << " len: " << len << "\n";
