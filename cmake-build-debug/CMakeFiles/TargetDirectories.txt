@@ -1,3 +1,4 @@
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0000_basic_01_array_02_array.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_01_Array_11328_strfry.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

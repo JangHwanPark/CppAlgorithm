@@ -55,6 +55,12 @@ build CMakeFiles/0000_basic_01_array_02_array.dir/0000_basic/01_array/02_array.c
   OBJECT_DIR = CMakeFiles\0000_basic_01_array_02_array.dir
   OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_array_02_array.dir\0000_basic\01_array
 
+build CMakeFiles/0000_basic_01_array_02_array.dir/0001_BOJ/01_Array/11328_strfry.cpp.obj: CXX_COMPILER__0000_basic_01_array_02_array_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/01_Array/11328_strfry.cpp || cmake_object_order_depends_target_0000_basic_01_array_02_array
+  DEP_FILE = CMakeFiles\0000_basic_01_array_02_array.dir\0001_BOJ\01_Array\11328_strfry.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0000_basic_01_array_02_array.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_01_array_02_array.dir\0001_BOJ\01_Array
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0000_basic_01_array_02_array
@@ -63,7 +69,7 @@ build CMakeFiles/0000_basic_01_array_02_array.dir/0000_basic/01_array/02_array.c
 #############################################
 # Link the executable 0000_basic_01_array_02_array.exe
 
-build 0000_basic_01_array_02_array.exe: CXX_EXECUTABLE_LINKER__0000_basic_01_array_02_array_Debug CMakeFiles/0000_basic_01_array_02_array.dir/0000_basic/01_array/02_array.cpp.obj
+build 0000_basic_01_array_02_array.exe: CXX_EXECUTABLE_LINKER__0000_basic_01_array_02_array_Debug CMakeFiles/0000_basic_01_array_02_array.dir/0000_basic/01_array/02_array.cpp.obj CMakeFiles/0000_basic_01_array_02_array.dir/0001_BOJ/01_Array/11328_strfry.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0000_basic_01_array_02_array.dir
@@ -72,6 +78,39 @@ build 0000_basic_01_array_02_array.exe: CXX_EXECUTABLE_LINKER__0000_basic_01_arr
   TARGET_FILE = 0000_basic_01_array_02_array.exe
   TARGET_IMPLIB = lib0000_basic_01_array_02_array.dll.a
   TARGET_PDB = 0000_basic_01_array_02_array.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 0001_BOJ_01_Array_11328_strfry
+
+
+#############################################
+# Order-only phony target for 0001_BOJ_01_Array_11328_strfry
+
+build cmake_object_order_depends_target_0001_BOJ_01_Array_11328_strfry: phony || CMakeFiles/0001_BOJ_01_Array_11328_strfry.dir
+
+build CMakeFiles/0001_BOJ_01_Array_11328_strfry.dir/0001_BOJ/01_Array/11328_strfry.cpp.obj: CXX_COMPILER__0001_BOJ_01_Array_11328_strfry_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/01_Array/11328_strfry.cpp || cmake_object_order_depends_target_0001_BOJ_01_Array_11328_strfry
+  DEP_FILE = CMakeFiles\0001_BOJ_01_Array_11328_strfry.dir\0001_BOJ\01_Array\11328_strfry.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_01_Array_11328_strfry.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_01_Array_11328_strfry.dir\0001_BOJ\01_Array
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0001_BOJ_01_Array_11328_strfry
+
+
+#############################################
+# Link the executable 0001_BOJ_01_Array_11328_strfry.exe
+
+build 0001_BOJ_01_Array_11328_strfry.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_01_Array_11328_strfry_Debug CMakeFiles/0001_BOJ_01_Array_11328_strfry.dir/0001_BOJ/01_Array/11328_strfry.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0001_BOJ_01_Array_11328_strfry.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0001_BOJ_01_Array_11328_strfry.exe
+  TARGET_IMPLIB = lib0001_BOJ_01_Array_11328_strfry.dll.a
+  TARGET_PDB = 0001_BOJ_01_Array_11328_strfry.exe.dbg
 
 
 #############################################
@@ -101,6 +140,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build 0000_basic_01_array_02_array: phony 0000_basic_01_array_02_array.exe
 
+build 0001_BOJ_01_Array_11328_strfry: phony 0001_BOJ_01_Array_11328_strfry.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -109,7 +150,7 @@ build 0000_basic_01_array_02_array: phony 0000_basic_01_array_02_array.exe
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0000_basic_01_array_02_array.exe
+build all: phony 0000_basic_01_array_02_array.exe 0001_BOJ_01_Array_11328_strfry.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
