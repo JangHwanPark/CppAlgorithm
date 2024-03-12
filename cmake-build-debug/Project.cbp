@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0001_BOJ_04_Queue_2164_card2">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0001_BOJ_04_Queue_2164_card2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0001_BOJ_04_Queue_2164_card2"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0001_BOJ_04_Queue_2164_card2/fast">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0001_BOJ_04_Queue_2164_card2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0001_BOJ_04_Queue_2164_card2/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0001_BOJ_11655_ROT13">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0001_BOJ_11655_ROT13" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0001_BOJ_11655_ROT13"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0001_BOJ_11655_ROT13/fast">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0001_BOJ_11655_ROT13" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0001_BOJ_11655_ROT13/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0001_BOJ_2559_Sequence">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0001_BOJ_2559_Sequence" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0001_BOJ_2559_Sequence"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0001_BOJ_2559_Sequence/fast">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0001_BOJ_2559_Sequence" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0001_BOJ_2559_Sequence/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0002_CodeForce_2024_02_18_div3_03_lr_remainders">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0002_CodeForce_2024_02_18_div3_03_lr_remainders" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0002_CodeForce_2024_02_18_div3_03_lr_remainders"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0002_CodeForce_2024_02_18_div3_03_lr_remainders/fast">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0002_CodeForce_2024_02_18_div3_03_lr_remainders" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0002_CodeForce_2024_02_18_div3_03_lr_remainders/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0002_CodeForce_2024_02_18_div3_04_card_game">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0002_CodeForce_2024_02_18_div3_04_card_game" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0002_CodeForce_2024_02_18_div3_04_card_game"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="0002_CodeForce_2024_02_18_div3_04_card_game/fast">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0002_CodeForce_2024_02_18_div3_04_card_game" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0002_CodeForce_2024_02_18_div3_04_card_game/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/01_Array/1919_create_anagram.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/02_TwoPointer/2531_sushi.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/04_Queue/2164_card2.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/11655_ROT13.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+			<Option target="0001_BOJ_11655_ROT13"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/1620_pokemon_master.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/2559_Sequence.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+			<Option target="0001_BOJ_2559_Sequence"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/9996_VJEKO.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0002_CodeForce/01_div2.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0002_CodeForce/02_div2.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+			<Option target="0002_CodeForce_2024_02_18_div3_03_lr_remainders"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0002_CodeForce/2024_02_18_div3/04_card_game.cpp">
+			<Option target="0001_BOJ_04_Queue_2164_card2"/>
+			<Option target="0002_CodeForce_2024_02_18_div3_04_card_game"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
