@@ -1,5 +1,3 @@
 
-add_executable(0000_basic_01_array_02_array 0000_basic/01_array/02_array.cpp
-        0000_basic/01_array/02_array.cpp
-        0001_BOJ/01_Array/11328_strfry.cpp)
-add_executable(0001_BOJ_01_Array_11328_strfry 0001_BOJ/01_Array/11328_strfry.cpp)
+add_executable(0001_BOJ_02_TwoPointer_80_boj 0001_BOJ/02_TwoPointer/80_boj.cpp
+        0000_basic/02_linked_list/01_linked_list_test.cpp)
