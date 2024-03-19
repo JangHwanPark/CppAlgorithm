@@ -50,9 +50,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/DependInfo.cmake"
-  "CMakeFiles/0001_BOJ_11655_ROT13.dir/DependInfo.cmake"
-  "CMakeFiles/0001_BOJ_2559_Sequence.dir/DependInfo.cmake"
-  "CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/DependInfo.cmake"
-  "CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/DependInfo.cmake"
+  "CMakeFiles/0000_basic_exam01.dir/DependInfo.cmake"
   )

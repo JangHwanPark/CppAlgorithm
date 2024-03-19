@@ -1,5 +1,3 @@
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0006_Algorithm_Sort_sort_basic.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0004_DataStructure_01_array_03_change_value.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/0000_basic_exam01.dir
+/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

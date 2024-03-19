@@ -117,441 +117,41 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named 0001_BOJ_04_Queue_2164_card2
+# Target rules for targets named 0000_basic_exam01
 
 # Build rule for target.
-0001_BOJ_04_Queue_2164_card2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0001_BOJ_04_Queue_2164_card2
-.PHONY : 0001_BOJ_04_Queue_2164_card2
+0000_basic_exam01: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0000_basic_exam01
+.PHONY : 0000_basic_exam01
 
 # fast build rule for target.
-0001_BOJ_04_Queue_2164_card2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build
-.PHONY : 0001_BOJ_04_Queue_2164_card2/fast
+0000_basic_exam01/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0000_basic_exam01.dir/build.make CMakeFiles/0000_basic_exam01.dir/build
+.PHONY : 0000_basic_exam01/fast
 
-#=============================================================================
-# Target rules for targets named 0001_BOJ_11655_ROT13
-
-# Build rule for target.
-0001_BOJ_11655_ROT13: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0001_BOJ_11655_ROT13
-.PHONY : 0001_BOJ_11655_ROT13
-
-# fast build rule for target.
-0001_BOJ_11655_ROT13/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_11655_ROT13.dir/build.make CMakeFiles/0001_BOJ_11655_ROT13.dir/build
-.PHONY : 0001_BOJ_11655_ROT13/fast
-
-#=============================================================================
-# Target rules for targets named 0001_BOJ_2559_Sequence
-
-# Build rule for target.
-0001_BOJ_2559_Sequence: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0001_BOJ_2559_Sequence
-.PHONY : 0001_BOJ_2559_Sequence
-
-# fast build rule for target.
-0001_BOJ_2559_Sequence/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_2559_Sequence.dir/build.make CMakeFiles/0001_BOJ_2559_Sequence.dir/build
-.PHONY : 0001_BOJ_2559_Sequence/fast
-
-#=============================================================================
-# Target rules for targets named 0002_CodeForce_2024_02_18_div3_03_lr_remainders
-
-# Build rule for target.
-0002_CodeForce_2024_02_18_div3_03_lr_remainders: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0002_CodeForce_2024_02_18_div3_03_lr_remainders
-.PHONY : 0002_CodeForce_2024_02_18_div3_03_lr_remainders
-
-# fast build rule for target.
-0002_CodeForce_2024_02_18_div3_03_lr_remainders/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/build.make CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/build
-.PHONY : 0002_CodeForce_2024_02_18_div3_03_lr_remainders/fast
-
-#=============================================================================
-# Target rules for targets named 0002_CodeForce_2024_02_18_div3_04_card_game
-
-# Build rule for target.
-0002_CodeForce_2024_02_18_div3_04_card_game: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0002_CodeForce_2024_02_18_div3_04_card_game
-.PHONY : 0002_CodeForce_2024_02_18_div3_04_card_game
-
-# fast build rule for target.
-0002_CodeForce_2024_02_18_div3_04_card_game/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/build.make CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/build
-.PHONY : 0002_CodeForce_2024_02_18_div3_04_card_game/fast
-
-0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.o: 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.o
-.PHONY : 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.o
+0000_basic/exam01.o: 0000_basic/exam01.cpp.o
+.PHONY : 0000_basic/exam01.o
 
 # target to build an object file
-0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.o
-.PHONY : 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.o
+0000_basic/exam01.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0000_basic_exam01.dir/build.make CMakeFiles/0000_basic_exam01.dir/0000_basic/exam01.cpp.o
+.PHONY : 0000_basic/exam01.cpp.o
 
-0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.i: 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.i
-.PHONY : 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.i
-
-# target to preprocess a source file
-0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.i
-.PHONY : 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.i
-
-0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.s: 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.s
-.PHONY : 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.s
-
-# target to generate assembly for a file
-0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.s
-.PHONY : 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.cpp.s
-
-0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.o: 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.o
-.PHONY : 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.o
-
-# target to build an object file
-0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.o
-.PHONY : 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.o
-
-0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.i: 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.i
-.PHONY : 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.i
+0000_basic/exam01.i: 0000_basic/exam01.cpp.i
+.PHONY : 0000_basic/exam01.i
 
 # target to preprocess a source file
-0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.i
-.PHONY : 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.i
+0000_basic/exam01.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0000_basic_exam01.dir/build.make CMakeFiles/0000_basic_exam01.dir/0000_basic/exam01.cpp.i
+.PHONY : 0000_basic/exam01.cpp.i
 
-0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.s: 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.s
-.PHONY : 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.s
-
-# target to generate assembly for a file
-0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.s
-.PHONY : 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.cpp.s
-
-0001_BOJ/01_Array/1919_create_anagram.o: 0001_BOJ/01_Array/1919_create_anagram.cpp.o
-.PHONY : 0001_BOJ/01_Array/1919_create_anagram.o
-
-# target to build an object file
-0001_BOJ/01_Array/1919_create_anagram.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/01_Array/1919_create_anagram.cpp.o
-.PHONY : 0001_BOJ/01_Array/1919_create_anagram.cpp.o
-
-0001_BOJ/01_Array/1919_create_anagram.i: 0001_BOJ/01_Array/1919_create_anagram.cpp.i
-.PHONY : 0001_BOJ/01_Array/1919_create_anagram.i
-
-# target to preprocess a source file
-0001_BOJ/01_Array/1919_create_anagram.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/01_Array/1919_create_anagram.cpp.i
-.PHONY : 0001_BOJ/01_Array/1919_create_anagram.cpp.i
-
-0001_BOJ/01_Array/1919_create_anagram.s: 0001_BOJ/01_Array/1919_create_anagram.cpp.s
-.PHONY : 0001_BOJ/01_Array/1919_create_anagram.s
+0000_basic/exam01.s: 0000_basic/exam01.cpp.s
+.PHONY : 0000_basic/exam01.s
 
 # target to generate assembly for a file
-0001_BOJ/01_Array/1919_create_anagram.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/01_Array/1919_create_anagram.cpp.s
-.PHONY : 0001_BOJ/01_Array/1919_create_anagram.cpp.s
-
-0001_BOJ/02_TwoPointer/2531_sushi.o: 0001_BOJ/02_TwoPointer/2531_sushi.cpp.o
-.PHONY : 0001_BOJ/02_TwoPointer/2531_sushi.o
-
-# target to build an object file
-0001_BOJ/02_TwoPointer/2531_sushi.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/02_TwoPointer/2531_sushi.cpp.o
-.PHONY : 0001_BOJ/02_TwoPointer/2531_sushi.cpp.o
-
-0001_BOJ/02_TwoPointer/2531_sushi.i: 0001_BOJ/02_TwoPointer/2531_sushi.cpp.i
-.PHONY : 0001_BOJ/02_TwoPointer/2531_sushi.i
-
-# target to preprocess a source file
-0001_BOJ/02_TwoPointer/2531_sushi.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/02_TwoPointer/2531_sushi.cpp.i
-.PHONY : 0001_BOJ/02_TwoPointer/2531_sushi.cpp.i
-
-0001_BOJ/02_TwoPointer/2531_sushi.s: 0001_BOJ/02_TwoPointer/2531_sushi.cpp.s
-.PHONY : 0001_BOJ/02_TwoPointer/2531_sushi.s
-
-# target to generate assembly for a file
-0001_BOJ/02_TwoPointer/2531_sushi.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/02_TwoPointer/2531_sushi.cpp.s
-.PHONY : 0001_BOJ/02_TwoPointer/2531_sushi.cpp.s
-
-0001_BOJ/04_Queue/2164_card2.o: 0001_BOJ/04_Queue/2164_card2.cpp.o
-.PHONY : 0001_BOJ/04_Queue/2164_card2.o
-
-# target to build an object file
-0001_BOJ/04_Queue/2164_card2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/04_Queue/2164_card2.cpp.o
-.PHONY : 0001_BOJ/04_Queue/2164_card2.cpp.o
-
-0001_BOJ/04_Queue/2164_card2.i: 0001_BOJ/04_Queue/2164_card2.cpp.i
-.PHONY : 0001_BOJ/04_Queue/2164_card2.i
-
-# target to preprocess a source file
-0001_BOJ/04_Queue/2164_card2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/04_Queue/2164_card2.cpp.i
-.PHONY : 0001_BOJ/04_Queue/2164_card2.cpp.i
-
-0001_BOJ/04_Queue/2164_card2.s: 0001_BOJ/04_Queue/2164_card2.cpp.s
-.PHONY : 0001_BOJ/04_Queue/2164_card2.s
-
-# target to generate assembly for a file
-0001_BOJ/04_Queue/2164_card2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/04_Queue/2164_card2.cpp.s
-.PHONY : 0001_BOJ/04_Queue/2164_card2.cpp.s
-
-0001_BOJ/11655_ROT13.o: 0001_BOJ/11655_ROT13.cpp.o
-.PHONY : 0001_BOJ/11655_ROT13.o
-
-# target to build an object file
-0001_BOJ/11655_ROT13.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/11655_ROT13.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_11655_ROT13.dir/build.make CMakeFiles/0001_BOJ_11655_ROT13.dir/0001_BOJ/11655_ROT13.cpp.o
-.PHONY : 0001_BOJ/11655_ROT13.cpp.o
-
-0001_BOJ/11655_ROT13.i: 0001_BOJ/11655_ROT13.cpp.i
-.PHONY : 0001_BOJ/11655_ROT13.i
-
-# target to preprocess a source file
-0001_BOJ/11655_ROT13.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/11655_ROT13.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_11655_ROT13.dir/build.make CMakeFiles/0001_BOJ_11655_ROT13.dir/0001_BOJ/11655_ROT13.cpp.i
-.PHONY : 0001_BOJ/11655_ROT13.cpp.i
-
-0001_BOJ/11655_ROT13.s: 0001_BOJ/11655_ROT13.cpp.s
-.PHONY : 0001_BOJ/11655_ROT13.s
-
-# target to generate assembly for a file
-0001_BOJ/11655_ROT13.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/11655_ROT13.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_11655_ROT13.dir/build.make CMakeFiles/0001_BOJ_11655_ROT13.dir/0001_BOJ/11655_ROT13.cpp.s
-.PHONY : 0001_BOJ/11655_ROT13.cpp.s
-
-0001_BOJ/1620_pokemon_master.o: 0001_BOJ/1620_pokemon_master.cpp.o
-.PHONY : 0001_BOJ/1620_pokemon_master.o
-
-# target to build an object file
-0001_BOJ/1620_pokemon_master.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/1620_pokemon_master.cpp.o
-.PHONY : 0001_BOJ/1620_pokemon_master.cpp.o
-
-0001_BOJ/1620_pokemon_master.i: 0001_BOJ/1620_pokemon_master.cpp.i
-.PHONY : 0001_BOJ/1620_pokemon_master.i
-
-# target to preprocess a source file
-0001_BOJ/1620_pokemon_master.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/1620_pokemon_master.cpp.i
-.PHONY : 0001_BOJ/1620_pokemon_master.cpp.i
-
-0001_BOJ/1620_pokemon_master.s: 0001_BOJ/1620_pokemon_master.cpp.s
-.PHONY : 0001_BOJ/1620_pokemon_master.s
-
-# target to generate assembly for a file
-0001_BOJ/1620_pokemon_master.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/1620_pokemon_master.cpp.s
-.PHONY : 0001_BOJ/1620_pokemon_master.cpp.s
-
-0001_BOJ/2559_Sequence.o: 0001_BOJ/2559_Sequence.cpp.o
-.PHONY : 0001_BOJ/2559_Sequence.o
-
-# target to build an object file
-0001_BOJ/2559_Sequence.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/2559_Sequence.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_2559_Sequence.dir/build.make CMakeFiles/0001_BOJ_2559_Sequence.dir/0001_BOJ/2559_Sequence.cpp.o
-.PHONY : 0001_BOJ/2559_Sequence.cpp.o
-
-0001_BOJ/2559_Sequence.i: 0001_BOJ/2559_Sequence.cpp.i
-.PHONY : 0001_BOJ/2559_Sequence.i
-
-# target to preprocess a source file
-0001_BOJ/2559_Sequence.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/2559_Sequence.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_2559_Sequence.dir/build.make CMakeFiles/0001_BOJ_2559_Sequence.dir/0001_BOJ/2559_Sequence.cpp.i
-.PHONY : 0001_BOJ/2559_Sequence.cpp.i
-
-0001_BOJ/2559_Sequence.s: 0001_BOJ/2559_Sequence.cpp.s
-.PHONY : 0001_BOJ/2559_Sequence.s
-
-# target to generate assembly for a file
-0001_BOJ/2559_Sequence.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/2559_Sequence.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_2559_Sequence.dir/build.make CMakeFiles/0001_BOJ_2559_Sequence.dir/0001_BOJ/2559_Sequence.cpp.s
-.PHONY : 0001_BOJ/2559_Sequence.cpp.s
-
-0001_BOJ/9996_VJEKO.o: 0001_BOJ/9996_VJEKO.cpp.o
-.PHONY : 0001_BOJ/9996_VJEKO.o
-
-# target to build an object file
-0001_BOJ/9996_VJEKO.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.o
-.PHONY : 0001_BOJ/9996_VJEKO.cpp.o
-
-0001_BOJ/9996_VJEKO.i: 0001_BOJ/9996_VJEKO.cpp.i
-.PHONY : 0001_BOJ/9996_VJEKO.i
-
-# target to preprocess a source file
-0001_BOJ/9996_VJEKO.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.i
-.PHONY : 0001_BOJ/9996_VJEKO.cpp.i
-
-0001_BOJ/9996_VJEKO.s: 0001_BOJ/9996_VJEKO.cpp.s
-.PHONY : 0001_BOJ/9996_VJEKO.s
-
-# target to generate assembly for a file
-0001_BOJ/9996_VJEKO.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0001_BOJ/9996_VJEKO.cpp.s
-.PHONY : 0001_BOJ/9996_VJEKO.cpp.s
-
-0002_CodeForce/01_div2.o: 0002_CodeForce/01_div2.cpp.o
-.PHONY : 0002_CodeForce/01_div2.o
-
-# target to build an object file
-0002_CodeForce/01_div2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.o
-.PHONY : 0002_CodeForce/01_div2.cpp.o
-
-0002_CodeForce/01_div2.i: 0002_CodeForce/01_div2.cpp.i
-.PHONY : 0002_CodeForce/01_div2.i
-
-# target to preprocess a source file
-0002_CodeForce/01_div2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.i
-.PHONY : 0002_CodeForce/01_div2.cpp.i
-
-0002_CodeForce/01_div2.s: 0002_CodeForce/01_div2.cpp.s
-.PHONY : 0002_CodeForce/01_div2.s
-
-# target to generate assembly for a file
-0002_CodeForce/01_div2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/01_div2.cpp.s
-.PHONY : 0002_CodeForce/01_div2.cpp.s
-
-0002_CodeForce/02_div2.o: 0002_CodeForce/02_div2.cpp.o
-.PHONY : 0002_CodeForce/02_div2.o
-
-# target to build an object file
-0002_CodeForce/02_div2.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/02_div2.cpp.o
-.PHONY : 0002_CodeForce/02_div2.cpp.o
-
-0002_CodeForce/02_div2.i: 0002_CodeForce/02_div2.cpp.i
-.PHONY : 0002_CodeForce/02_div2.i
-
-# target to preprocess a source file
-0002_CodeForce/02_div2.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/02_div2.cpp.i
-.PHONY : 0002_CodeForce/02_div2.cpp.i
-
-0002_CodeForce/02_div2.s: 0002_CodeForce/02_div2.cpp.s
-.PHONY : 0002_CodeForce/02_div2.s
-
-# target to generate assembly for a file
-0002_CodeForce/02_div2.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/02_div2.cpp.s
-.PHONY : 0002_CodeForce/02_div2.cpp.s
-
-0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.o: 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.o
-.PHONY : 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.o
-
-# target to build an object file
-0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.o
-.PHONY : 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.o
-
-0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.i: 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.i
-.PHONY : 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.i
-
-# target to preprocess a source file
-0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.i
-.PHONY : 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.i
-
-0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.s: 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.s
-.PHONY : 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.s
-
-# target to generate assembly for a file
-0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.s
-.PHONY : 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.cpp.s
-
-0002_CodeForce/2024_02_18_div3/02_chaya_calendar.o: 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.o
-.PHONY : 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.o
-
-# target to build an object file
-0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.o
-.PHONY : 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.o
-
-0002_CodeForce/2024_02_18_div3/02_chaya_calendar.i: 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.i
-.PHONY : 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.i
-
-# target to preprocess a source file
-0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.i
-.PHONY : 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.i
-
-0002_CodeForce/2024_02_18_div3/02_chaya_calendar.s: 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.s
-.PHONY : 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.s
-
-# target to generate assembly for a file
-0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.s
-.PHONY : 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.cpp.s
-
-0002_CodeForce/2024_02_18_div3/03_lr_remainders.o: 0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.o
-.PHONY : 0002_CodeForce/2024_02_18_div3/03_lr_remainders.o
-
-# target to build an object file
-0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/build.make CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.o
-.PHONY : 0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.o
-
-0002_CodeForce/2024_02_18_div3/03_lr_remainders.i: 0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.i
-.PHONY : 0002_CodeForce/2024_02_18_div3/03_lr_remainders.i
-
-# target to preprocess a source file
-0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/build.make CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.i
-.PHONY : 0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.i
-
-0002_CodeForce/2024_02_18_div3/03_lr_remainders.s: 0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.s
-.PHONY : 0002_CodeForce/2024_02_18_div3/03_lr_remainders.s
-
-# target to generate assembly for a file
-0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/build.make CMakeFiles/0002_CodeForce_2024_02_18_div3_03_lr_remainders.dir/0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.s
-.PHONY : 0002_CodeForce/2024_02_18_div3/03_lr_remainders.cpp.s
-
-0002_CodeForce/2024_02_18_div3/04_card_game.o: 0002_CodeForce/2024_02_18_div3/04_card_game.cpp.o
-.PHONY : 0002_CodeForce/2024_02_18_div3/04_card_game.o
-
-# target to build an object file
-0002_CodeForce/2024_02_18_div3/04_card_game.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/build.make CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.o
-.PHONY : 0002_CodeForce/2024_02_18_div3/04_card_game.cpp.o
-
-0002_CodeForce/2024_02_18_div3/04_card_game.i: 0002_CodeForce/2024_02_18_div3/04_card_game.cpp.i
-.PHONY : 0002_CodeForce/2024_02_18_div3/04_card_game.i
-
-# target to preprocess a source file
-0002_CodeForce/2024_02_18_div3/04_card_game.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/build.make CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.i
-.PHONY : 0002_CodeForce/2024_02_18_div3/04_card_game.cpp.i
-
-0002_CodeForce/2024_02_18_div3/04_card_game.s: 0002_CodeForce/2024_02_18_div3/04_card_game.cpp.s
-.PHONY : 0002_CodeForce/2024_02_18_div3/04_card_game.s
-
-# target to generate assembly for a file
-0002_CodeForce/2024_02_18_div3/04_card_game.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/build.make CMakeFiles/0001_BOJ_04_Queue_2164_card2.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/build.make CMakeFiles/0002_CodeForce_2024_02_18_div3_04_card_game.dir/0002_CodeForce/2024_02_18_div3/04_card_game.cpp.s
-.PHONY : 0002_CodeForce/2024_02_18_div3/04_card_game.cpp.s
+0000_basic/exam01.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0000_basic_exam01.dir/build.make CMakeFiles/0000_basic_exam01.dir/0000_basic/exam01.cpp.s
+.PHONY : 0000_basic/exam01.cpp.s
 
 # Help Target
 help:
@@ -561,56 +161,10 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... 0001_BOJ_04_Queue_2164_card2"
-	@echo "... 0001_BOJ_11655_ROT13"
-	@echo "... 0001_BOJ_2559_Sequence"
-	@echo "... 0002_CodeForce_2024_02_18_div3_03_lr_remainders"
-	@echo "... 0002_CodeForce_2024_02_18_div3_04_card_game"
-	@echo "... 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.o"
-	@echo "... 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.i"
-	@echo "... 0000_Algorithm_Pattern/02_TwoPointer/01_Two_Pointer.s"
-	@echo "... 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.o"
-	@echo "... 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.i"
-	@echo "... 0000_Algorithm_Pattern/03_SlidingWindow/00_Sliding_Window.s"
-	@echo "... 0001_BOJ/01_Array/1919_create_anagram.o"
-	@echo "... 0001_BOJ/01_Array/1919_create_anagram.i"
-	@echo "... 0001_BOJ/01_Array/1919_create_anagram.s"
-	@echo "... 0001_BOJ/02_TwoPointer/2531_sushi.o"
-	@echo "... 0001_BOJ/02_TwoPointer/2531_sushi.i"
-	@echo "... 0001_BOJ/02_TwoPointer/2531_sushi.s"
-	@echo "... 0001_BOJ/04_Queue/2164_card2.o"
-	@echo "... 0001_BOJ/04_Queue/2164_card2.i"
-	@echo "... 0001_BOJ/04_Queue/2164_card2.s"
-	@echo "... 0001_BOJ/11655_ROT13.o"
-	@echo "... 0001_BOJ/11655_ROT13.i"
-	@echo "... 0001_BOJ/11655_ROT13.s"
-	@echo "... 0001_BOJ/1620_pokemon_master.o"
-	@echo "... 0001_BOJ/1620_pokemon_master.i"
-	@echo "... 0001_BOJ/1620_pokemon_master.s"
-	@echo "... 0001_BOJ/2559_Sequence.o"
-	@echo "... 0001_BOJ/2559_Sequence.i"
-	@echo "... 0001_BOJ/2559_Sequence.s"
-	@echo "... 0001_BOJ/9996_VJEKO.o"
-	@echo "... 0001_BOJ/9996_VJEKO.i"
-	@echo "... 0001_BOJ/9996_VJEKO.s"
-	@echo "... 0002_CodeForce/01_div2.o"
-	@echo "... 0002_CodeForce/01_div2.i"
-	@echo "... 0002_CodeForce/01_div2.s"
-	@echo "... 0002_CodeForce/02_div2.o"
-	@echo "... 0002_CodeForce/02_div2.i"
-	@echo "... 0002_CodeForce/02_div2.s"
-	@echo "... 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.o"
-	@echo "... 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.i"
-	@echo "... 0002_CodeForce/2024_02_18_div3/01_thorns_and_coins.s"
-	@echo "... 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.o"
-	@echo "... 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.i"
-	@echo "... 0002_CodeForce/2024_02_18_div3/02_chaya_calendar.s"
-	@echo "... 0002_CodeForce/2024_02_18_div3/03_lr_remainders.o"
-	@echo "... 0002_CodeForce/2024_02_18_div3/03_lr_remainders.i"
-	@echo "... 0002_CodeForce/2024_02_18_div3/03_lr_remainders.s"
-	@echo "... 0002_CodeForce/2024_02_18_div3/04_card_game.o"
-	@echo "... 0002_CodeForce/2024_02_18_div3/04_card_game.i"
-	@echo "... 0002_CodeForce/2024_02_18_div3/04_card_game.s"
+	@echo "... 0000_basic_exam01"
+	@echo "... 0000_basic/exam01.o"
+	@echo "... 0000_basic/exam01.i"
+	@echo "... 0000_basic/exam01.s"
 .PHONY : help
 
 

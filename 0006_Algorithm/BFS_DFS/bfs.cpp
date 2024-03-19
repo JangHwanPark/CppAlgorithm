@@ -22,8 +22,8 @@ int main(void) {
     ios::sync_with_stdio(0);
     cin.tie(0);
 
-    queue<pair<int, int>> Q;
-    vis[0][0] = 1;
+    queue<pair<int, int> > Q;
+    visited[0][0] = 1;
     Q.push({0,0});
 
     while(!Q.empty()) {
@@ -35,9 +35,9 @@ int main(void) {
             int ny = cur.Y + dy[dir];
 
             if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
-            if (vis[nx][ny] || board[nx][ny] != 1) continue;
+            if (visited[nx][ny] || board[nx][ny] != 1) continue;
 
-            vis[nx][ny] = 1;
+            visited[nx][ny] = 1;
             Q.push({nx, ny});
         }
     }
