@@ -1,18 +1,26 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void tc() {
-    int n;
-    //cin >> n;
-    int tc = 1260, cnt = 0, ret = 0;
-    int arr[5] = {500, 100, 50, 10};
-    for (int i = 0; i < 5; i++) {
-        cout << tc - arr[i] << "\n";
-        cnt++;
-        cout << tc % arr[i] << "\n";
+void tcCoin() {
+    int coins[4] = {500, 100, 50, 10};
+    int tc = 1260, cnt = 0;
+
+    for (int i = 0; i < 4; i++) {
+        int temp = coins[i];
+        cout << temp << " ";
     }
     cout << "\n";
-    cout << ret << "\n";
+
+    for (int i = 0; i < 4; i++) {
+        int temp = coins[i];
+        if (tc >= temp) {
+            int cnt2 = tc / temp;
+            tc -= cnt2 * temp;
+            cnt += cnt2;
+            cout << temp << "원 동전 " << cnt2 << "개 사용" << "\n";
+        }
+    }
+    cout << "거스름 돈(cnt)의 갯수는: " << cnt << "\n";
 }
 
 void tc2() {
@@ -52,5 +60,5 @@ void tc22() {
 }
 
 int main(void) {
-    tc22();
+    tcCoin();
 }

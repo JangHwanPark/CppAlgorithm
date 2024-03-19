@@ -41,121 +41,76 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target 0001_BOJ_02_TwoPointer_80_boj
+# Object build statements for EXECUTABLE target 0001_BOJ_05_BFS_2178_BOJ
 
 
 #############################################
-# Order-only phony target for 0001_BOJ_02_TwoPointer_80_boj
+# Order-only phony target for 0001_BOJ_05_BFS_2178_BOJ
 
-build cmake_object_order_depends_target_0001_BOJ_02_TwoPointer_80_boj: phony || CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir
+build cmake_object_order_depends_target_0001_BOJ_05_BFS_2178_BOJ: phony || CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir
 
-build CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir/0001_BOJ/02_TwoPointer/80_boj.cpp.obj: CXX_COMPILER__0001_BOJ_02_TwoPointer_80_boj_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/02_TwoPointer/80_boj.cpp || cmake_object_order_depends_target_0001_BOJ_02_TwoPointer_80_boj
-  DEP_FILE = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir\0001_BOJ\02_TwoPointer\80_boj.cpp.obj.d
+build CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/05_BFS/2178_BOJ.cpp.obj: CXX_COMPILER__0001_BOJ_05_BFS_2178_BOJ_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0001_BOJ/05_BFS/2178_BOJ.cpp || cmake_object_order_depends_target_0001_BOJ_05_BFS_2178_BOJ
+  DEP_FILE = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir\0001_BOJ\05_BFS\2178_BOJ.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir\0001_BOJ\02_TwoPointer
+  OBJECT_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir\0001_BOJ\05_BFS
 
-build CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir/0004_DataStructure/02_linked_list/01_linked_list_test.cpp.obj: CXX_COMPILER__0001_BOJ_02_TwoPointer_80_boj_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0004_DataStructure/02_linked_list/01_linked_list_test.cpp || cmake_object_order_depends_target_0001_BOJ_02_TwoPointer_80_boj
-  DEP_FILE = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir\0004_DataStructure\02_linked_list\01_linked_list_test.cpp.obj.d
+build CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0000_basic/exam01.cpp.obj: CXX_COMPILER__0001_BOJ_05_BFS_2178_BOJ_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/exam01.cpp || cmake_object_order_depends_target_0001_BOJ_05_BFS_2178_BOJ
+  DEP_FILE = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir\0000_basic\exam01.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir\0004_DataStructure\02_linked_list
-
-build CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir/0006_Algorithm/Sort/sort_basic.cpp.obj: CXX_COMPILER__0001_BOJ_02_TwoPointer_80_boj_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0006_Algorithm/Sort/sort_basic.cpp || cmake_object_order_depends_target_0001_BOJ_02_TwoPointer_80_boj
-  DEP_FILE = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir\0006_Algorithm\Sort\sort_basic.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir\0006_Algorithm\Sort
-
-build CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir/0004_DataStructure/01_array/03_change_value.cpp.obj: CXX_COMPILER__0001_BOJ_02_TwoPointer_80_boj_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0004_DataStructure/01_array/03_change_value.cpp || cmake_object_order_depends_target_0001_BOJ_02_TwoPointer_80_boj
-  DEP_FILE = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir\0004_DataStructure\01_array\03_change_value.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir
-  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir\0004_DataStructure\01_array
+  OBJECT_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir\0000_basic
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 0001_BOJ_02_TwoPointer_80_boj
+# Link build statements for EXECUTABLE target 0001_BOJ_05_BFS_2178_BOJ
 
 
 #############################################
-# Link the executable 0001_BOJ_02_TwoPointer_80_boj.exe
+# Link the executable 0001_BOJ_05_BFS_2178_BOJ.exe
 
-build 0001_BOJ_02_TwoPointer_80_boj.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_02_TwoPointer_80_boj_Debug CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir/0001_BOJ/02_TwoPointer/80_boj.cpp.obj CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir/0004_DataStructure/02_linked_list/01_linked_list_test.cpp.obj CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir/0006_Algorithm/Sort/sort_basic.cpp.obj CMakeFiles/0001_BOJ_02_TwoPointer_80_boj.dir/0004_DataStructure/01_array/03_change_value.cpp.obj
+build 0001_BOJ_05_BFS_2178_BOJ.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_05_BFS_2178_BOJ_Debug CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/05_BFS/2178_BOJ.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0000_basic/exam01.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0001_BOJ_02_TwoPointer_80_boj.dir
+  OBJECT_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = 0001_BOJ_02_TwoPointer_80_boj.exe
-  TARGET_IMPLIB = lib0001_BOJ_02_TwoPointer_80_boj.dll.a
-  TARGET_PDB = 0001_BOJ_02_TwoPointer_80_boj.exe.dbg
+  TARGET_FILE = 0001_BOJ_05_BFS_2178_BOJ.exe
+  TARGET_IMPLIB = lib0001_BOJ_05_BFS_2178_BOJ.dll.a
+  TARGET_PDB = 0001_BOJ_05_BFS_2178_BOJ.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 0006_Algorithm_Sort_sort_basic
+# Object build statements for EXECUTABLE target 0000_basic_exam01
 
 
 #############################################
-# Order-only phony target for 0006_Algorithm_Sort_sort_basic
+# Order-only phony target for 0000_basic_exam01
 
-build cmake_object_order_depends_target_0006_Algorithm_Sort_sort_basic: phony || CMakeFiles/0006_Algorithm_Sort_sort_basic.dir
+build cmake_object_order_depends_target_0000_basic_exam01: phony || CMakeFiles/0000_basic_exam01.dir
 
-build CMakeFiles/0006_Algorithm_Sort_sort_basic.dir/0006_Algorithm/Sort/sort_basic.cpp.obj: CXX_COMPILER__0006_Algorithm_Sort_sort_basic_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0006_Algorithm/Sort/sort_basic.cpp || cmake_object_order_depends_target_0006_Algorithm_Sort_sort_basic
-  DEP_FILE = CMakeFiles\0006_Algorithm_Sort_sort_basic.dir\0006_Algorithm\Sort\sort_basic.cpp.obj.d
+build CMakeFiles/0000_basic_exam01.dir/0000_basic/exam01.cpp.obj: CXX_COMPILER__0000_basic_exam01_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0000_basic/exam01.cpp || cmake_object_order_depends_target_0000_basic_exam01
+  DEP_FILE = CMakeFiles\0000_basic_exam01.dir\0000_basic\exam01.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0006_Algorithm_Sort_sort_basic.dir
-  OBJECT_FILE_DIR = CMakeFiles\0006_Algorithm_Sort_sort_basic.dir\0006_Algorithm\Sort
+  OBJECT_DIR = CMakeFiles\0000_basic_exam01.dir
+  OBJECT_FILE_DIR = CMakeFiles\0000_basic_exam01.dir\0000_basic
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 0006_Algorithm_Sort_sort_basic
+# Link build statements for EXECUTABLE target 0000_basic_exam01
 
 
 #############################################
-# Link the executable 0006_Algorithm_Sort_sort_basic.exe
+# Link the executable 0000_basic_exam01.exe
 
-build 0006_Algorithm_Sort_sort_basic.exe: CXX_EXECUTABLE_LINKER__0006_Algorithm_Sort_sort_basic_Debug CMakeFiles/0006_Algorithm_Sort_sort_basic.dir/0006_Algorithm/Sort/sort_basic.cpp.obj
+build 0000_basic_exam01.exe: CXX_EXECUTABLE_LINKER__0000_basic_exam01_Debug CMakeFiles/0000_basic_exam01.dir/0000_basic/exam01.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0006_Algorithm_Sort_sort_basic.dir
+  OBJECT_DIR = CMakeFiles\0000_basic_exam01.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = 0006_Algorithm_Sort_sort_basic.exe
-  TARGET_IMPLIB = lib0006_Algorithm_Sort_sort_basic.dll.a
-  TARGET_PDB = 0006_Algorithm_Sort_sort_basic.exe.dbg
-
-# =============================================================================
-# Object build statements for EXECUTABLE target 0004_DataStructure_01_array_03_change_value
-
-
-#############################################
-# Order-only phony target for 0004_DataStructure_01_array_03_change_value
-
-build cmake_object_order_depends_target_0004_DataStructure_01_array_03_change_value: phony || CMakeFiles/0004_DataStructure_01_array_03_change_value.dir
-
-build CMakeFiles/0004_DataStructure_01_array_03_change_value.dir/0004_DataStructure/01_array/03_change_value.cpp.obj: CXX_COMPILER__0004_DataStructure_01_array_03_change_value_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0004_DataStructure/01_array/03_change_value.cpp || cmake_object_order_depends_target_0004_DataStructure_01_array_03_change_value
-  DEP_FILE = CMakeFiles\0004_DataStructure_01_array_03_change_value.dir\0004_DataStructure\01_array\03_change_value.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\0004_DataStructure_01_array_03_change_value.dir
-  OBJECT_FILE_DIR = CMakeFiles\0004_DataStructure_01_array_03_change_value.dir\0004_DataStructure\01_array
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target 0004_DataStructure_01_array_03_change_value
-
-
-#############################################
-# Link the executable 0004_DataStructure_01_array_03_change_value.exe
-
-build 0004_DataStructure_01_array_03_change_value.exe: CXX_EXECUTABLE_LINKER__0004_DataStructure_01_array_03_change_value_Debug CMakeFiles/0004_DataStructure_01_array_03_change_value.dir/0004_DataStructure/01_array/03_change_value.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\0004_DataStructure_01_array_03_change_value.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = 0004_DataStructure_01_array_03_change_value.exe
-  TARGET_IMPLIB = lib0004_DataStructure_01_array_03_change_value.dll.a
-  TARGET_PDB = 0004_DataStructure_01_array_03_change_value.exe.dbg
+  TARGET_FILE = 0000_basic_exam01.exe
+  TARGET_IMPLIB = lib0000_basic_exam01.dll.a
+  TARGET_PDB = 0000_basic_exam01.exe.dbg
 
 
 #############################################
@@ -183,11 +138,9 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build 0001_BOJ_02_TwoPointer_80_boj: phony 0001_BOJ_02_TwoPointer_80_boj.exe
+build 0000_basic_exam01: phony 0000_basic_exam01.exe
 
-build 0004_DataStructure_01_array_03_change_value: phony 0004_DataStructure_01_array_03_change_value.exe
-
-build 0006_Algorithm_Sort_sort_basic: phony 0006_Algorithm_Sort_sort_basic.exe
+build 0001_BOJ_05_BFS_2178_BOJ: phony 0001_BOJ_05_BFS_2178_BOJ.exe
 
 # =============================================================================
 # Folder targets.
@@ -197,7 +150,7 @@ build 0006_Algorithm_Sort_sort_basic: phony 0006_Algorithm_Sort_sort_basic.exe
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0001_BOJ_02_TwoPointer_80_boj.exe 0006_Algorithm_Sort_sort_basic.exe 0004_DataStructure_01_array_03_change_value.exe
+build all: phony 0001_BOJ_05_BFS_2178_BOJ.exe 0000_basic_exam01.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
