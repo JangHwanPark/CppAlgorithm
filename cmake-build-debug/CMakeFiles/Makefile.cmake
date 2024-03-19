@@ -50,5 +50,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/0000_basic_exam01.dir/DependInfo.cmake"
+  "CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/DependInfo.cmake"
   )

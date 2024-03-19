@@ -117,41 +117,41 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named 0000_basic_exam01
+# Target rules for targets named 0001_BOJ_05_BFS_2178_BOJ
 
 # Build rule for target.
-0000_basic_exam01: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0000_basic_exam01
-.PHONY : 0000_basic_exam01
+0001_BOJ_05_BFS_2178_BOJ: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0001_BOJ_05_BFS_2178_BOJ
+.PHONY : 0001_BOJ_05_BFS_2178_BOJ
 
 # fast build rule for target.
-0000_basic_exam01/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0000_basic_exam01.dir/build.make CMakeFiles/0000_basic_exam01.dir/build
-.PHONY : 0000_basic_exam01/fast
+0001_BOJ_05_BFS_2178_BOJ/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build.make CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build
+.PHONY : 0001_BOJ_05_BFS_2178_BOJ/fast
 
-0000_basic/exam01.o: 0000_basic/exam01.cpp.o
-.PHONY : 0000_basic/exam01.o
+0001_BOJ/05_BFS/2178_BOJ.o: 0001_BOJ/05_BFS/2178_BOJ.cpp.o
+.PHONY : 0001_BOJ/05_BFS/2178_BOJ.o
 
 # target to build an object file
-0000_basic/exam01.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0000_basic_exam01.dir/build.make CMakeFiles/0000_basic_exam01.dir/0000_basic/exam01.cpp.o
-.PHONY : 0000_basic/exam01.cpp.o
+0001_BOJ/05_BFS/2178_BOJ.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build.make CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/05_BFS/2178_BOJ.cpp.o
+.PHONY : 0001_BOJ/05_BFS/2178_BOJ.cpp.o
 
-0000_basic/exam01.i: 0000_basic/exam01.cpp.i
-.PHONY : 0000_basic/exam01.i
+0001_BOJ/05_BFS/2178_BOJ.i: 0001_BOJ/05_BFS/2178_BOJ.cpp.i
+.PHONY : 0001_BOJ/05_BFS/2178_BOJ.i
 
 # target to preprocess a source file
-0000_basic/exam01.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0000_basic_exam01.dir/build.make CMakeFiles/0000_basic_exam01.dir/0000_basic/exam01.cpp.i
-.PHONY : 0000_basic/exam01.cpp.i
+0001_BOJ/05_BFS/2178_BOJ.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build.make CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/05_BFS/2178_BOJ.cpp.i
+.PHONY : 0001_BOJ/05_BFS/2178_BOJ.cpp.i
 
-0000_basic/exam01.s: 0000_basic/exam01.cpp.s
-.PHONY : 0000_basic/exam01.s
+0001_BOJ/05_BFS/2178_BOJ.s: 0001_BOJ/05_BFS/2178_BOJ.cpp.s
+.PHONY : 0001_BOJ/05_BFS/2178_BOJ.s
 
 # target to generate assembly for a file
-0000_basic/exam01.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0000_basic_exam01.dir/build.make CMakeFiles/0000_basic_exam01.dir/0000_basic/exam01.cpp.s
-.PHONY : 0000_basic/exam01.cpp.s
+0001_BOJ/05_BFS/2178_BOJ.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build.make CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/05_BFS/2178_BOJ.cpp.s
+.PHONY : 0001_BOJ/05_BFS/2178_BOJ.cpp.s
 
 # Help Target
 help:
@@ -161,10 +161,10 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... 0000_basic_exam01"
-	@echo "... 0000_basic/exam01.o"
-	@echo "... 0000_basic/exam01.i"
-	@echo "... 0000_basic/exam01.s"
+	@echo "... 0001_BOJ_05_BFS_2178_BOJ"
+	@echo "... 0001_BOJ/05_BFS/2178_BOJ.o"
+	@echo "... 0001_BOJ/05_BFS/2178_BOJ.i"
+	@echo "... 0001_BOJ/05_BFS/2178_BOJ.s"
 .PHONY : help
 
 

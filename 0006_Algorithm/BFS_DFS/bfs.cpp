@@ -24,7 +24,7 @@ int main(void) {
 
     queue<pair<int, int> > Q;
     visited[0][0] = 1;
-    Q.push({0,0});
+    Q.push(pair<int, int>(0,0));
 
     while(!Q.empty()) {
         pair<int, int> cur = Q.front(); Q.pop();
@@ -38,7 +38,7 @@ int main(void) {
             if (visited[nx][ny] || board[nx][ny] != 1) continue;
 
             visited[nx][ny] = 1;
-            Q.push({nx, ny});
+            Q.push(pair<int, int>(nx, ny));
         }
     }
 }

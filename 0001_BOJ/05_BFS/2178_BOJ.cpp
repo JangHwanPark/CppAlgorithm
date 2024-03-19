@@ -1,11 +1,10 @@
 #include <bits/stdc++.h>
+
 using namespace std;
-#define X first
-#define Y second
 
-int visited[100][100];
+bool visited[100][100];
 
-void testCase(int dx[], int dy[]) {
+void testCase(const int dx[], const int dy[]) {
     int n = 4, m = 6;
     int arr[100][100] =
             {{1, 0, 1, 1, 1, 1},
@@ -13,27 +12,32 @@ void testCase(int dx[], int dy[]) {
              {1, 0, 1, 0, 1, 1},
              {1, 1, 1, 0, 1, 1}};
 
-    cout << arr[3][5];
     queue<pair<int, int> > q;
+    visited[0][0] = true;
+    q.push(pair<int, int>(0,0));
 
-    while (/*큐에 요소가 있으면 실행*/) {
-        // visited 0, 0 방문표시
-        // 기본값 : 큐에 0,0 삽입
-        // 큐 맨 앞요소 팝
-        // dx, dy = 상하좌우 이동 경로
+    while (!q.empty()) {
+        pair<int, int> cursor = q.front();q.pop();
+        cout << '(' << cursor.first << ", " << cursor.second << ") -> ";
+        for (int dir = 0; dir < 4; dir++) {
+            int nx = cursor.first + dx[dir];
+            int ny = cursor.second + dy[dir];
+
+            if (nx < 0 || nx >= n || ny < 0 || ny >= m) continue;
+            if (visited[nx][ny] || arr[nx][ny] == 0) continue;
+
+            visited[nx][ny] = visited[cursor.first][cursor.second] + 1;
+            q.push(pair<int, int>(nx,ny));
+        }
     }
+
+    cout << visited[n-1][m-1] << "\n";
 }
 
 int main() {
     int dx[4] = {1, 0, -1, 0};
-    int dy[4] = {0, 1, 0 ,-1};
-
-
-    ios_base::sync_with_stdio(false);
-    cin.tie();
-    //int n, m;
-    //cin >> n >> m;
-
-    // print TC
+    int dy[4] = {0, 1, 0, -1};
+    memset(visited, 0, sizeof(visited));
     testCase(dx, dy);
+    return 0;
 }
