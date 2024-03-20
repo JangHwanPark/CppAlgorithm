@@ -79,6 +79,9 @@
 		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/05_BFS/2178_BOJ.cpp">
 			<Option target="0001_BOJ_05_BFS_2178_BOJ"/>
 		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/PrefixSum/2851_BOJ.cpp">
+			<Option target="0001_BOJ_05_BFS_2178_BOJ"/>
+		</Unit>
 		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
