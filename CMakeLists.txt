@@ -1,2 +1,2 @@
 
-add_executable(0001_BOJ_05_BFS_2178_BOJ 0001_BOJ/05_BFS/2178_BOJ.cpp)
+add_executable(0001_BOJ_05_BFS_2178_BOJ 0001_BOJ/05_BFS/2178_BOJ.cpp 0001_BOJ/PrefixSum/2851_BOJ.cpp)

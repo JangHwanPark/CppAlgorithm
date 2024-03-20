@@ -129,19 +129,6 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build.make CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build
 .PHONY : 0001_BOJ_05_BFS_2178_BOJ/fast
 
-#=============================================================================
-# Target rules for targets named 0001_BOJ_PrefixSum_2851_BOJ
-
-# Build rule for target.
-0001_BOJ_PrefixSum_2851_BOJ: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 0001_BOJ_PrefixSum_2851_BOJ
-.PHONY : 0001_BOJ_PrefixSum_2851_BOJ
-
-# fast build rule for target.
-0001_BOJ_PrefixSum_2851_BOJ/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_PrefixSum_2851_BOJ.dir/build.make CMakeFiles/0001_BOJ_PrefixSum_2851_BOJ.dir/build
-.PHONY : 0001_BOJ_PrefixSum_2851_BOJ/fast
-
 0001_BOJ/05_BFS/2178_BOJ.o: 0001_BOJ/05_BFS/2178_BOJ.cpp.o
 .PHONY : 0001_BOJ/05_BFS/2178_BOJ.o
 
@@ -172,7 +159,6 @@ depend:
 # target to build an object file
 0001_BOJ/PrefixSum/2851_BOJ.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build.make CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/PrefixSum/2851_BOJ.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_PrefixSum_2851_BOJ.dir/build.make CMakeFiles/0001_BOJ_PrefixSum_2851_BOJ.dir/0001_BOJ/PrefixSum/2851_BOJ.cpp.o
 .PHONY : 0001_BOJ/PrefixSum/2851_BOJ.cpp.o
 
 0001_BOJ/PrefixSum/2851_BOJ.i: 0001_BOJ/PrefixSum/2851_BOJ.cpp.i
@@ -181,7 +167,6 @@ depend:
 # target to preprocess a source file
 0001_BOJ/PrefixSum/2851_BOJ.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build.make CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/PrefixSum/2851_BOJ.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_PrefixSum_2851_BOJ.dir/build.make CMakeFiles/0001_BOJ_PrefixSum_2851_BOJ.dir/0001_BOJ/PrefixSum/2851_BOJ.cpp.i
 .PHONY : 0001_BOJ/PrefixSum/2851_BOJ.cpp.i
 
 0001_BOJ/PrefixSum/2851_BOJ.s: 0001_BOJ/PrefixSum/2851_BOJ.cpp.s
@@ -190,7 +175,6 @@ depend:
 # target to generate assembly for a file
 0001_BOJ/PrefixSum/2851_BOJ.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/build.make CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/PrefixSum/2851_BOJ.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/0001_BOJ_PrefixSum_2851_BOJ.dir/build.make CMakeFiles/0001_BOJ_PrefixSum_2851_BOJ.dir/0001_BOJ/PrefixSum/2851_BOJ.cpp.s
 .PHONY : 0001_BOJ/PrefixSum/2851_BOJ.cpp.s
 
 # Help Target
@@ -202,7 +186,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... 0001_BOJ_05_BFS_2178_BOJ"
-	@echo "... 0001_BOJ_PrefixSum_2851_BOJ"
 	@echo "... 0001_BOJ/05_BFS/2178_BOJ.o"
 	@echo "... 0001_BOJ/05_BFS/2178_BOJ.i"
 	@echo "... 0001_BOJ/05_BFS/2178_BOJ.s"
