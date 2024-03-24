@@ -60,5 +60,4 @@ void tc22() {
 }
 
 int main(void) {
-    tcCoin();
 }
