@@ -115,6 +115,18 @@ build CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/00_Arr
   OBJECT_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir
   OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir\0004_DataStructure\01_array
 
+build CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/Stack/02stk.cpp.obj: CXX_COMPILER__0001_BOJ_05_BFS_2178_BOJ_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0004_DataStructure/Stack/02stk.cpp || cmake_object_order_depends_target_0001_BOJ_05_BFS_2178_BOJ
+  DEP_FILE = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir\0004_DataStructure\Stack\02stk.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir\0004_DataStructure\Stack
+
+build CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/00_Practice.cpp.obj: CXX_COMPILER__0001_BOJ_05_BFS_2178_BOJ_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0004_DataStructure/00_Practice.cpp || cmake_object_order_depends_target_0001_BOJ_05_BFS_2178_BOJ
+  DEP_FILE = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir\0004_DataStructure\00_Practice.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir
+  OBJECT_FILE_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir\0004_DataStructure
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target 0001_BOJ_05_BFS_2178_BOJ
@@ -123,7 +135,7 @@ build CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/00_Arr
 #############################################
 # Link the executable 0001_BOJ_05_BFS_2178_BOJ.exe
 
-build 0001_BOJ_05_BFS_2178_BOJ.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_05_BFS_2178_BOJ_Debug CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/05_BFS/2178_BOJ.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/PrefixSum/2851_BOJ.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/02_LinkedList/02_CreateDestroyNode_ListPractice.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/02_LinkedList/00_cut_corners_list.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/01_array_test.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/PrefixSum/23827_boj.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/02_LinkedList/04_AddandDeletionNode_LinkedList.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/02_LinkedList/03_CreateDestroyNode_Typeof_List.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/03_change_value.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/02_array.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/00_ArrayPractice.cpp.obj
+build 0001_BOJ_05_BFS_2178_BOJ.exe: CXX_EXECUTABLE_LINKER__0001_BOJ_05_BFS_2178_BOJ_Debug CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/05_BFS/2178_BOJ.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/PrefixSum/2851_BOJ.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/02_LinkedList/02_CreateDestroyNode_ListPractice.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/02_LinkedList/00_cut_corners_list.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/01_array_test.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0001_BOJ/PrefixSum/23827_boj.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/02_LinkedList/04_AddandDeletionNode_LinkedList.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/02_LinkedList/03_CreateDestroyNode_Typeof_List.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/03_change_value.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/02_array.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/01_array/00_ArrayPractice.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/Stack/02stk.cpp.obj CMakeFiles/0001_BOJ_05_BFS_2178_BOJ.dir/0004_DataStructure/00_Practice.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\0001_BOJ_05_BFS_2178_BOJ.dir
@@ -265,6 +277,39 @@ build 0004_DataStructure_01_array_00_ArrayPractice.exe: CXX_EXECUTABLE_LINKER__0
   TARGET_IMPLIB = lib0004_DataStructure_01_array_00_ArrayPractice.dll.a
   TARGET_PDB = 0004_DataStructure_01_array_00_ArrayPractice.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 0004_DataStructure_Stack_02stk
+
+
+#############################################
+# Order-only phony target for 0004_DataStructure_Stack_02stk
+
+build cmake_object_order_depends_target_0004_DataStructure_Stack_02stk: phony || CMakeFiles/0004_DataStructure_Stack_02stk.dir
+
+build CMakeFiles/0004_DataStructure_Stack_02stk.dir/0004_DataStructure/Stack/02stk.cpp.obj: CXX_COMPILER__0004_DataStructure_Stack_02stk_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/0004_DataStructure/Stack/02stk.cpp || cmake_object_order_depends_target_0004_DataStructure_Stack_02stk
+  DEP_FILE = CMakeFiles\0004_DataStructure_Stack_02stk.dir\0004_DataStructure\Stack\02stk.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\0004_DataStructure_Stack_02stk.dir
+  OBJECT_FILE_DIR = CMakeFiles\0004_DataStructure_Stack_02stk.dir\0004_DataStructure\Stack
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 0004_DataStructure_Stack_02stk
+
+
+#############################################
+# Link the executable 0004_DataStructure_Stack_02stk.exe
+
+build 0004_DataStructure_Stack_02stk.exe: CXX_EXECUTABLE_LINKER__0004_DataStructure_Stack_02stk_Debug CMakeFiles/0004_DataStructure_Stack_02stk.dir/0004_DataStructure/Stack/02stk.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\0004_DataStructure_Stack_02stk.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 0004_DataStructure_Stack_02stk.exe
+  TARGET_IMPLIB = lib0004_DataStructure_Stack_02stk.dll.a
+  TARGET_PDB = 0004_DataStructure_Stack_02stk.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -301,6 +346,8 @@ build 0004_DataStructure_02_LinkedList_00_ListPractice: phony 0004_DataStructure
 
 build 0004_DataStructure_02_LinkedList_02_CreateDestroyNode_ListPractice: phony 0004_DataStructure_02_LinkedList_02_CreateDestroyNode_ListPractice.exe
 
+build 0004_DataStructure_Stack_02stk: phony 0004_DataStructure_Stack_02stk.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -309,7 +356,7 @@ build 0004_DataStructure_02_LinkedList_02_CreateDestroyNode_ListPractice: phony 
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
 
-build all: phony 0001_BOJ_05_BFS_2178_BOJ.exe 0004_DataStructure_02_LinkedList_00_ListPractice.exe 0001_BOJ_PrefixSum_23827_boj.exe 0004_DataStructure_02_LinkedList_02_CreateDestroyNode_ListPractice.exe 0004_DataStructure_01_array_00_ArrayPractice.exe
+build all: phony 0001_BOJ_05_BFS_2178_BOJ.exe 0004_DataStructure_02_LinkedList_00_ListPractice.exe 0001_BOJ_PrefixSum_23827_boj.exe 0004_DataStructure_02_LinkedList_02_CreateDestroyNode_ListPractice.exe 0004_DataStructure_01_array_00_ArrayPractice.exe 0004_DataStructure_Stack_02stk.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.

@@ -3,5 +3,6 @@ C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0004_Dat
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0001_BOJ_PrefixSum_23827_boj.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0004_DataStructure_02_LinkedList_02_CreateDestroyNode_ListPractice.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0004_DataStructure_01_array_00_ArrayPractice.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/0004_DataStructure_Stack_02stk.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
