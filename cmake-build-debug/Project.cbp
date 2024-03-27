@@ -17,8 +17,8 @@
 					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="0001_BOJ_05_BFS_2178_BOJ">
-				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0001_BOJ_05_BFS_2178_BOJ" prefix_auto="0" extension_auto="0"/>
+			<Target title="0000_basic_exam01">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0000_basic_exam01" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -30,14 +30,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0001_BOJ_05_BFS_2178_BOJ"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0000_basic_exam01"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="0001_BOJ_05_BFS_2178_BOJ/fast">
-				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0001_BOJ_05_BFS_2178_BOJ" prefix_auto="0" extension_auto="0"/>
+			<Target title="0000_basic_exam01/fast">
+				<Option output="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/0000_basic_exam01" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -49,7 +49,7 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0001_BOJ_05_BFS_2178_BOJ/fast"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 0000_basic_exam01/fast"/>
 					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/CppAlgorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -76,11 +76,8 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/05_BFS/2178_BOJ.cpp">
-			<Option target="0001_BOJ_05_BFS_2178_BOJ"/>
-		</Unit>
-		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0001_BOJ/PrefixSum/2851_BOJ.cpp">
-			<Option target="0001_BOJ_05_BFS_2178_BOJ"/>
+		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/0000_basic/exam01.cpp">
+			<Option target="0000_basic_exam01"/>
 		</Unit>
 		<Unit filename="/Users/bagjanghwan/development/CppAlgorithm/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
