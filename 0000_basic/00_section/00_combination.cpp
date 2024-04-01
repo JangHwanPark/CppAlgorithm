@@ -20,7 +20,6 @@ void combiRecursion(int start, vector<int> b) {
         combiRecursion(i, b);
         b.pop_back();
     }
-    return;
 }
 
 int main() {
