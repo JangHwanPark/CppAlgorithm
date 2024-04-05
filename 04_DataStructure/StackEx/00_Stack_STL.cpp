@@ -74,12 +74,12 @@ void customTypeStack() {
 
 int main() {
     // 각 타입의 스택을 테스트
-    cout << "Integer Type Stack:" << "\n";
+    cout << "Integer Type StackEx:" << "\n";
     integerTypeStack();
 
-    cout << "\nChar Type Stack:" << "\n";
+    cout << "\nChar Type StackEx:" << "\n";
     charTypeStack();
 
-    cout << "\nString Type Stack:" << "\n";
+    cout << "\nString Type StackEx:" << "\n";
     stringTypeStack();
 }
