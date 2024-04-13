@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace/
 # =============================================================================
 # Object build statements for EXECUTABLE target 04_DataStructure_ArrayEx_ArrayList
 
@@ -189,7 +189,7 @@ build 00_basic_exam01.exe: CXX_EXECUTABLE_LINKER__00_basic_exam01_Debug CMakeFil
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\user\CLionProjects\CplusAlgorithm\cmake-build-debug && C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\233.13135.93\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\user\CLionProjects\CplusAlgorithm\cmake-build-debug-event-trace && C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\233.13135.93\bin\cmake\win\x64\bin\cmake.exe -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -200,7 +200,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\user\CLionProjects\CplusAlgorithm\cmake-build-debug && C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\233.13135.93\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\user\CLionProjects\CplusAlgorithm -BC:\Users\user\CLionProjects\CplusAlgorithm\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\user\CLionProjects\CplusAlgorithm\cmake-build-debug-event-trace && C:\Users\user\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\233.13135.93\bin\cmake\win\x64\bin\cmake.exe --regenerate-during-build -SC:\Users\user\CLionProjects\CplusAlgorithm -BC:\Users\user\CLionProjects\CplusAlgorithm\cmake-build-debug-event-trace"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -224,7 +224,7 @@ build main: phony main.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug
+# Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace
 
 build all: phony 04_DataStructure_ArrayEx_ArrayList.exe main.exe 04_DataStructure_TreeEx_exam01.exe 00_basic_exam01.exe
 

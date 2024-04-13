@@ -1,5 +1,6 @@
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/04_DataStructure_ArrayEx_ArrayList.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/main.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/04_DataStructure_TreeEx_exam01.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/00_basic_exam01.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
