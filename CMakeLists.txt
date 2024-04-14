@@ -1,4 +1,6 @@
 add_executable(04_DataStructure_ArrayEx_ArrayList 04_DataStructure/ArrayEx/ArrayList.cpp)
 add_executable(main main.cpp)
 add_executable(04_DataStructure_TreeEx_exam01 04_DataStructure/TreeEx/exam01.cpp)
-add_executable(00_basic_exam01 00_basic/exam01.cpp)
+add_executable(00_basic_exam01 00_basic/CallByValueAndReference/exam01.cpp)
+add_executable(00_basic_dataTypeMemoryViewTest 00_basic/dataTypeMemoryViewTest.cpp)
+add_executable(00_basic_CallByValueAndReference_exam02 00_basic/CallByValueAndReference/exam02.cpp)

@@ -2,5 +2,7 @@ C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace/CMakeFi
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace/CMakeFiles/main.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace/CMakeFiles/04_DataStructure_TreeEx_exam01.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace/CMakeFiles/00_basic_exam01.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace/CMakeFiles/00_basic_dataTypeMemoryViewTest.dir
+C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace/CMakeFiles/00_basic_CallByValueAndReference_exam02.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace/CMakeFiles/edit_cache.dir
 C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace/CMakeFiles/rebuild_cache.dir
