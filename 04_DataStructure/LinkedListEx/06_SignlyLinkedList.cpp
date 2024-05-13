@@ -1,11 +1,13 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-struct node {
+typedef struct node {
     int data;
-    struct node* next;
-};
+    node* next;
+} node;
+
+struct node* head = NULL;
 
 int main() {
-    cout << "Hello, World!" << "\n";
+    cout << head << "\n";
 }
