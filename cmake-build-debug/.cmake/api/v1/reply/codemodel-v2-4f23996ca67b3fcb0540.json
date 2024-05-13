@@ -16,7 +16,11 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6,
+						7,
+						8,
+						9
 					]
 				}
 			],
@@ -36,12 +40,23 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6,
+						7,
+						8,
+						9
 					]
 				}
 			],
 			"targets" : 
 			[
+				{
+					"directoryIndex" : 0,
+					"id" : "00_basic_00_section_03_prefixSum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00_basic_00_section_03_prefixSum-Debug-05a0c912969ab3fc4955.json",
+					"name" : "00_basic_00_section_03_prefixSum",
+					"projectIndex" : 0
+				},
 				{
 					"directoryIndex" : 0,
 					"id" : "00_basic_CallByValueAndReference_exam02::@6890427a1f51a3e7e1df",
@@ -65,9 +80,30 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "00_basic_loop_exam01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00_basic_loop_exam01-Debug-b9992c3c0f00a676f0f1.json",
+					"name" : "00_basic_loop_exam01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "00_basic_loop_exam02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00_basic_loop_exam02-Debug-49cc3f097bcdeeded9e3.json",
+					"name" : "00_basic_loop_exam02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "04_DataStructure_ArrayEx_ArrayList::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-04_DataStructure_ArrayEx_ArrayList-Debug-7614b5dce0916fccd220.json",
 					"name" : "04_DataStructure_ArrayEx_ArrayList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_DataStructure_LinkedListEx_06_SignlyLinkedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_DataStructure_LinkedListEx_06_SignlyLinkedList-Debug-1ab6fb1fd68ef4797bcc.json",
+					"name" : "04_DataStructure_LinkedListEx_06_SignlyLinkedList",
 					"projectIndex" : 0
 				},
 				{

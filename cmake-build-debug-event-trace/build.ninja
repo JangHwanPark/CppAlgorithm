@@ -238,6 +238,138 @@ build 00_basic_CallByValueAndReference_exam02.exe: CXX_EXECUTABLE_LINKER__00_bas
   TARGET_IMPLIB = lib00_basic_CallByValueAndReference_exam02.dll.a
   TARGET_PDB = 00_basic_CallByValueAndReference_exam02.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 00_basic_loop_exam01
+
+
+#############################################
+# Order-only phony target for 00_basic_loop_exam01
+
+build cmake_object_order_depends_target_00_basic_loop_exam01: phony || CMakeFiles/00_basic_loop_exam01.dir
+
+build CMakeFiles/00_basic_loop_exam01.dir/00_basic/loop/exam01.cpp.obj: CXX_COMPILER__00_basic_loop_exam01_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/00_basic/loop/exam01.cpp || cmake_object_order_depends_target_00_basic_loop_exam01
+  DEP_FILE = CMakeFiles\00_basic_loop_exam01.dir\00_basic\loop\exam01.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\00_basic_loop_exam01.dir
+  OBJECT_FILE_DIR = CMakeFiles\00_basic_loop_exam01.dir\00_basic\loop
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 00_basic_loop_exam01
+
+
+#############################################
+# Link the executable 00_basic_loop_exam01.exe
+
+build 00_basic_loop_exam01.exe: CXX_EXECUTABLE_LINKER__00_basic_loop_exam01_Debug CMakeFiles/00_basic_loop_exam01.dir/00_basic/loop/exam01.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\00_basic_loop_exam01.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 00_basic_loop_exam01.exe
+  TARGET_IMPLIB = lib00_basic_loop_exam01.dll.a
+  TARGET_PDB = 00_basic_loop_exam01.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 00_basic_loop_exam02
+
+
+#############################################
+# Order-only phony target for 00_basic_loop_exam02
+
+build cmake_object_order_depends_target_00_basic_loop_exam02: phony || CMakeFiles/00_basic_loop_exam02.dir
+
+build CMakeFiles/00_basic_loop_exam02.dir/00_basic/loop/exam02.cpp.obj: CXX_COMPILER__00_basic_loop_exam02_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/00_basic/loop/exam02.cpp || cmake_object_order_depends_target_00_basic_loop_exam02
+  DEP_FILE = CMakeFiles\00_basic_loop_exam02.dir\00_basic\loop\exam02.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\00_basic_loop_exam02.dir
+  OBJECT_FILE_DIR = CMakeFiles\00_basic_loop_exam02.dir\00_basic\loop
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 00_basic_loop_exam02
+
+
+#############################################
+# Link the executable 00_basic_loop_exam02.exe
+
+build 00_basic_loop_exam02.exe: CXX_EXECUTABLE_LINKER__00_basic_loop_exam02_Debug CMakeFiles/00_basic_loop_exam02.dir/00_basic/loop/exam02.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\00_basic_loop_exam02.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 00_basic_loop_exam02.exe
+  TARGET_IMPLIB = lib00_basic_loop_exam02.dll.a
+  TARGET_PDB = 00_basic_loop_exam02.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 00_basic_00_section_03_prefixSum
+
+
+#############################################
+# Order-only phony target for 00_basic_00_section_03_prefixSum
+
+build cmake_object_order_depends_target_00_basic_00_section_03_prefixSum: phony || CMakeFiles/00_basic_00_section_03_prefixSum.dir
+
+build CMakeFiles/00_basic_00_section_03_prefixSum.dir/00_basic/00_section/03_prefixSum.cpp.obj: CXX_COMPILER__00_basic_00_section_03_prefixSum_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/00_basic/00_section/03_prefixSum.cpp || cmake_object_order_depends_target_00_basic_00_section_03_prefixSum
+  DEP_FILE = CMakeFiles\00_basic_00_section_03_prefixSum.dir\00_basic\00_section\03_prefixSum.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\00_basic_00_section_03_prefixSum.dir
+  OBJECT_FILE_DIR = CMakeFiles\00_basic_00_section_03_prefixSum.dir\00_basic\00_section
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 00_basic_00_section_03_prefixSum
+
+
+#############################################
+# Link the executable 00_basic_00_section_03_prefixSum.exe
+
+build 00_basic_00_section_03_prefixSum.exe: CXX_EXECUTABLE_LINKER__00_basic_00_section_03_prefixSum_Debug CMakeFiles/00_basic_00_section_03_prefixSum.dir/00_basic/00_section/03_prefixSum.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\00_basic_00_section_03_prefixSum.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 00_basic_00_section_03_prefixSum.exe
+  TARGET_IMPLIB = lib00_basic_00_section_03_prefixSum.dll.a
+  TARGET_PDB = 00_basic_00_section_03_prefixSum.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 04_DataStructure_LinkedListEx_06_SignlyLinkedList
+
+
+#############################################
+# Order-only phony target for 04_DataStructure_LinkedListEx_06_SignlyLinkedList
+
+build cmake_object_order_depends_target_04_DataStructure_LinkedListEx_06_SignlyLinkedList: phony || CMakeFiles/04_DataStructure_LinkedListEx_06_SignlyLinkedList.dir
+
+build CMakeFiles/04_DataStructure_LinkedListEx_06_SignlyLinkedList.dir/04_DataStructure/LinkedListEx/06_SignlyLinkedList.cpp.obj: CXX_COMPILER__04_DataStructure_LinkedListEx_06_SignlyLinkedList_unscanned_Debug C$:/Users/user/CLionProjects/CplusAlgorithm/04_DataStructure/LinkedListEx/06_SignlyLinkedList.cpp || cmake_object_order_depends_target_04_DataStructure_LinkedListEx_06_SignlyLinkedList
+  DEP_FILE = CMakeFiles\04_DataStructure_LinkedListEx_06_SignlyLinkedList.dir\04_DataStructure\LinkedListEx\06_SignlyLinkedList.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\04_DataStructure_LinkedListEx_06_SignlyLinkedList.dir
+  OBJECT_FILE_DIR = CMakeFiles\04_DataStructure_LinkedListEx_06_SignlyLinkedList.dir\04_DataStructure\LinkedListEx
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 04_DataStructure_LinkedListEx_06_SignlyLinkedList
+
+
+#############################################
+# Link the executable 04_DataStructure_LinkedListEx_06_SignlyLinkedList.exe
+
+build 04_DataStructure_LinkedListEx_06_SignlyLinkedList.exe: CXX_EXECUTABLE_LINKER__04_DataStructure_LinkedListEx_06_SignlyLinkedList_Debug CMakeFiles/04_DataStructure_LinkedListEx_06_SignlyLinkedList.dir/04_DataStructure/LinkedListEx/06_SignlyLinkedList.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\04_DataStructure_LinkedListEx_06_SignlyLinkedList.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 04_DataStructure_LinkedListEx_06_SignlyLinkedList.exe
+  TARGET_IMPLIB = lib04_DataStructure_LinkedListEx_06_SignlyLinkedList.dll.a
+  TARGET_PDB = 04_DataStructure_LinkedListEx_06_SignlyLinkedList.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -264,13 +396,21 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build 00_basic_00_section_03_prefixSum: phony 00_basic_00_section_03_prefixSum.exe
+
 build 00_basic_CallByValueAndReference_exam02: phony 00_basic_CallByValueAndReference_exam02.exe
 
 build 00_basic_dataTypeMemoryViewTest: phony 00_basic_dataTypeMemoryViewTest.exe
 
 build 00_basic_exam01: phony 00_basic_exam01.exe
 
+build 00_basic_loop_exam01: phony 00_basic_loop_exam01.exe
+
+build 00_basic_loop_exam02: phony 00_basic_loop_exam02.exe
+
 build 04_DataStructure_ArrayEx_ArrayList: phony 04_DataStructure_ArrayEx_ArrayList.exe
+
+build 04_DataStructure_LinkedListEx_06_SignlyLinkedList: phony 04_DataStructure_LinkedListEx_06_SignlyLinkedList.exe
 
 build 04_DataStructure_TreeEx_exam01: phony 04_DataStructure_TreeEx_exam01.exe
 
@@ -284,7 +424,7 @@ build main: phony main.exe
 #############################################
 # Folder: C:/Users/user/CLionProjects/CplusAlgorithm/cmake-build-debug-event-trace
 
-build all: phony 04_DataStructure_ArrayEx_ArrayList.exe main.exe 04_DataStructure_TreeEx_exam01.exe 00_basic_exam01.exe 00_basic_dataTypeMemoryViewTest.exe 00_basic_CallByValueAndReference_exam02.exe
+build all: phony 04_DataStructure_ArrayEx_ArrayList.exe main.exe 04_DataStructure_TreeEx_exam01.exe 00_basic_exam01.exe 00_basic_dataTypeMemoryViewTest.exe 00_basic_CallByValueAndReference_exam02.exe 00_basic_loop_exam01.exe 00_basic_loop_exam02.exe 00_basic_00_section_03_prefixSum.exe 04_DataStructure_LinkedListEx_06_SignlyLinkedList.exe
 
 # =============================================================================
 # Unknown Build Time Dependencies.
