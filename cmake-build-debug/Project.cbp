@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_DataStructure_ArrayEx_ArrayList">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/04_DataStructure_ArrayEx_ArrayList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_DataStructure_ArrayEx_ArrayList"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_DataStructure_ArrayEx_ArrayList/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/04_DataStructure_ArrayEx_ArrayList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_DataStructure_ArrayEx_ArrayList/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_DataStructure_TreeEx_exam01">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/04_DataStructure_TreeEx_exam01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_DataStructure_TreeEx_exam01"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_DataStructure_TreeEx_exam01/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/04_DataStructure_TreeEx_exam01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_DataStructure_TreeEx_exam01/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_exam01">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_exam01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_exam01"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_exam01/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_exam01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_exam01/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_dataTypeMemoryViewTest">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_dataTypeMemoryViewTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_dataTypeMemoryViewTest"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_dataTypeMemoryViewTest/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_dataTypeMemoryViewTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_dataTypeMemoryViewTest/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_CallByValueAndReference_exam02">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_CallByValueAndReference_exam02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_CallByValueAndReference_exam02"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_CallByValueAndReference_exam02/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_CallByValueAndReference_exam02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_CallByValueAndReference_exam02/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_loop_exam01">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_loop_exam01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_loop_exam01"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_loop_exam01/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_loop_exam01" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_loop_exam01/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_loop_exam02">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_loop_exam02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_loop_exam02"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_loop_exam02/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_loop_exam02" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_loop_exam02/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_00_section_03_prefixSum">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_00_section_03_prefixSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_00_section_03_prefixSum"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00_basic_00_section_03_prefixSum/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/00_basic_00_section_03_prefixSum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 00_basic_00_section_03_prefixSum/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_DataStructure_LinkedListEx_06_SignlyLinkedList">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/04_DataStructure_LinkedListEx_06_SignlyLinkedList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_DataStructure_LinkedListEx_06_SignlyLinkedList"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="04_DataStructure_LinkedListEx_06_SignlyLinkedList/fast">
+				<Option output="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/04_DataStructure_LinkedListEx_06_SignlyLinkedList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 04_DataStructure_LinkedListEx_06_SignlyLinkedList/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/00_basic/00_section/03_prefixSum.cpp">
+			<Option target="00_basic_00_section_03_prefixSum"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/00_basic/CallByValueAndReference/exam01.cpp">
+			<Option target="00_basic_exam01"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/00_basic/CallByValueAndReference/exam02.cpp">
+			<Option target="00_basic_CallByValueAndReference_exam02"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/00_basic/dataTypeMemoryViewTest.cpp">
+			<Option target="00_basic_dataTypeMemoryViewTest"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/00_basic/loop/exam01.cpp">
+			<Option target="00_basic_loop_exam01"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/00_basic/loop/exam02.cpp">
+			<Option target="00_basic_loop_exam02"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/04_DataStructure/ArrayEx/ArrayList.cpp">
+			<Option target="04_DataStructure_ArrayEx_ArrayList"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/04_DataStructure/LinkedListEx/06_SignlyLinkedList.cpp">
+			<Option target="04_DataStructure_LinkedListEx_06_SignlyLinkedList"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/04_DataStructure/TreeEx/exam01.cpp">
+			<Option target="04_DataStructure_TreeEx_exam01"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/main.cpp">
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/Users/bagjanghwan/development/cpp-algorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

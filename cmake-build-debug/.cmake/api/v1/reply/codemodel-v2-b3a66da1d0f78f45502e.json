@@ -1,0 +1,137 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "00_basic_00_section_03_prefixSum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00_basic_00_section_03_prefixSum-Debug-1ba501175be7828bf468.json",
+					"name" : "00_basic_00_section_03_prefixSum",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "00_basic_CallByValueAndReference_exam02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00_basic_CallByValueAndReference_exam02-Debug-c526e88ca7825c033123.json",
+					"name" : "00_basic_CallByValueAndReference_exam02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "00_basic_dataTypeMemoryViewTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00_basic_dataTypeMemoryViewTest-Debug-063c9114cb5c1f904cb7.json",
+					"name" : "00_basic_dataTypeMemoryViewTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "00_basic_exam01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00_basic_exam01-Debug-497c29fc632f1419ff72.json",
+					"name" : "00_basic_exam01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "00_basic_loop_exam01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00_basic_loop_exam01-Debug-b4fcdbe8be4fa2cdf2c0.json",
+					"name" : "00_basic_loop_exam01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "00_basic_loop_exam02::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-00_basic_loop_exam02-Debug-6487558cea6b478c2feb.json",
+					"name" : "00_basic_loop_exam02",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_DataStructure_ArrayEx_ArrayList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_DataStructure_ArrayEx_ArrayList-Debug-5f635c78ab88542cd9cf.json",
+					"name" : "04_DataStructure_ArrayEx_ArrayList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_DataStructure_LinkedListEx_06_SignlyLinkedList::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_DataStructure_LinkedListEx_06_SignlyLinkedList-Debug-b21830482c70e7ff344e.json",
+					"name" : "04_DataStructure_LinkedListEx_06_SignlyLinkedList",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04_DataStructure_TreeEx_exam01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04_DataStructure_TreeEx_exam01-Debug-f7901299e0c09c3bfbb1.json",
+					"name" : "04_DataStructure_TreeEx_exam01",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-0c39571fb4d91bb137f6.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/bagjanghwan/development/cpp-algorithm/cmake-build-debug",
+		"source" : "/Users/bagjanghwan/development/cpp-algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
