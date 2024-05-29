@@ -1,27 +1,135 @@
-﻿#include <bits/stdc++.h>
+﻿#include <iostream>
+#include <vector>
+#include <cmath>
+
 using namespace std;
 
-int main() {
-    int tc; // 테스트 케이스의 수
-    cin >> tc; // 테스트 케이스 수 입력 받기
-    for (int i = 1; i <= tc; ++i) {
-        int b; // 변환할 바이트 수
-        cin >> b; // 바이트 수 입력 받기
-        string s; // 입력 문자열
-        cin >> s; // 문자열 S 입력 받기
+// Function to calculate the number of parity bits required
+int calculateParityBits(int m) {
+    int r = 0;
+    while ((1 << r) < (m + r + 1)) {
+        r++;
+    }
+    return r;
+}
 
-        string res; // 최종 문자열 결과
-        for (int i = 0; i < 8 * b; i += 8) {
-            string binaryStr; // 이진수 문자열
-            for (int j = i; j < i + 8; ++j) {
-                binaryStr += (s[j] == 'I' ? '1' : '0');
+// Function to generate the Hamming code
+vector<int> generateHammingCode(vector<int> data) {
+    int m = data.size();
+    int r = calculateParityBits(m);
+    int n = m + r;
+
+    vector<int> hammingCode(n + 1);
+
+    int j = 0, k = 0;
+
+    for (int i = 1; i <= n; i++) {
+        // Check if the current position is a power of 2
+        if (i == (1 << j)) {
+            hammingCode[i] = 0;
+            j++;
+        } else {
+            hammingCode[i] = data[k];
+            k++;
+        }
+    }
+
+    for (int i = 0; i < r; i++) {
+        int parityPos = (1 << i);
+        int parity = 0;
+
+        for (int j = 1; j <= n; j++) {
+            if (j & parityPos) {
+                parity ^= hammingCode[j];
             }
-            bitset<8> bits(binaryStr); // 문자열을 bitset으로 변환
-            char convertedChar = static_cast<char>(bits.to_ulong()); // bitset을 unsigned long으로 변환 후 char로 캐스팅
-            res += convertedChar; // 결과 문자열에 추가
         }
 
-        cout << "Case #" << i << ": " << res << "\n"; // 결과 출력
+        hammingCode[parityPos] = parity;
     }
+
+    return hammingCode;
+}
+
+// Function to detect and correct a single bit error in the Hamming code
+void detectAndCorrectError(vector<int>& hammingCode) {
+    int n = hammingCode.size() - 1;
+    int r = log2(n) + 1;
+    int errorPos = 0;
+
+    for (int i = 0; i < r; i++) {
+        int parityPos = (1 << i);
+        int parity = 0;
+
+        for (int j = 1; j <= n; j++) {
+            if (j & parityPos) {
+                parity ^= hammingCode[j];
+            }
+        }
+
+        if (parity != 0) {
+            errorPos += parityPos;
+        }
+    }
+
+    if (errorPos != 0) {
+        cout << "Error detected at position: " << errorPos << endl;
+        hammingCode[errorPos] ^= 1; // Correct the error
+        cout << "Error corrected.\n";
+    } else {
+        cout << "No error detected.\n";
+    }
+}
+
+// Function to extract the original data from the Hamming code
+vector<int> extractData(const vector<int>& hammingCode) {
+    int n = hammingCode.size() - 1;
+    int r = log2(n) + 1;
+    vector<int> data;
+
+    for (int i = 1; i <= n; i++) {
+        if ((i & (i - 1)) != 0) {
+            data.push_back(hammingCode[i]);
+        }
+    }
+
+    return data;
+}
+
+int main() {
+    vector<int> data = {1, 0, 1, 1}; // Example data bits
+
+    vector<int> hammingCode = generateHammingCode(data);
+
+    cout << "Generated Hamming code: ";
+    for (int i = 1; i < hammingCode.size(); i++) {
+        cout << hammingCode[i] << " ";
+    }
+    cout << endl;
+
+    // Introduce an error for testing
+    hammingCode[3] ^= 1;
+
+    cout << "Hamming code with error: ";
+    for (int i = 1; i < hammingCode.size(); i++) {
+        cout << hammingCode[i] << " ";
+    }
+    cout << endl;
+
+    detectAndCorrectError(hammingCode);
+
+    cout << "Corrected Hamming code: ";
+    for (int i = 1; i < hammingCode.size(); i++) {
+        cout << hammingCode[i] << " ";
+    }
+    cout << endl;
+
+    vector<int> extractedData = extractData(hammingCode);
+
+    cout << "Extracted data: ";
+    for (int bit : extractedData) {
+        cout << bit << " ";
+    }
+    cout << endl;
+
     return 0;
 }
