@@ -1,20 +1,9 @@
 # ninja log v5
-4	1500	7347110222756506	CMakeFiles/main.dir/main.cpp.obj	d340846f306e1d9
+1563	1775	7372060887985856	00_basic_00_section_03_prefixSum.exe	b8393b57a00355e0
 1568	1649	7347976628351047	00_basic_exam01.exe	acd149bf7c512b86
 1501	1584	7347110223556910	main.exe	80d8c8defd4c1d84
-3	1439	7347949272601568	CMakeFiles/00_basic_exam01.dir/00_basic/exam01.cpp.obj	985a613997a7a097
-1	1547	7347999187239002	CMakeFiles/00_basic_dataTypeMemoryViewTest.dir/00_basic/dataTypeMemoryViewTest.cpp.obj	631ea012b5715081
 1745	2011	7358091882677729	00_basic_loop_exam02.exe	b778a8740752d51d
-4	1604	7348752757887820	CMakeFiles/00_basic_CallByValueAndReference_exam02.dir/00_basic/CallByValueAndReference/exam02.cpp.obj	8019eb5bbdc83174
-5	1567	7347976627562747	CMakeFiles/00_basic_exam01.dir/00_basic/CallByValueAndReference/exam01.cpp.obj	6ecc37e21a6bc82c
 1547	1650	7347999188244292	00_basic_dataTypeMemoryViewTest.exe	8d4bab468c57ab7e
-3	1392	7348759152733094	CMakeFiles/00_basic_loop_exam01.dir/00_basic/loop/exam01.cpp.obj	297a2e432c449f95
+1443	1532	7373069175146110	04_DataStructure_LinkedListEx_06_SignlyLinkedList.exe	cf1336b27d8b5c12
 1605	1769	7348752759506101	00_basic_CallByValueAndReference_exam02.exe	5d0f215dd5769d2b
 1393	1472	7348759153499942	00_basic_loop_exam01.exe	a59877fd40d6195b
-3	1744	7358091880045838	CMakeFiles/00_basic_loop_exam02.dir/00_basic/loop/exam02.cpp.obj	4235a0f1e92fe89
-1	1562	7372060885887749	CMakeFiles/00_basic_00_section_03_prefixSum.dir/00_basic/00_section/03_prefixSum.cpp.obj	8907244f39af8bde
-1563	1775	7372060887985856	00_basic_00_section_03_prefixSum.exe	b8393b57a00355e0
-0	1681	7373021236142984	CMakeFiles/04_DataStructure_LinkedListEx_06_SignlyLinkedList.dir/04_DataStructure/LinkedListEx/06_SignlyLinkedList.cpp.obj	7410b39d522fd67c
-1681	1871	7373021238019350	04_DataStructure_LinkedListEx_06_SignlyLinkedList.exe	cf1336b27d8b5c12
-3	1443	7373069174281107	CMakeFiles/04_DataStructure_LinkedListEx_06_SignlyLinkedList.dir/04_DataStructure/LinkedListEx/06_SignlyLinkedList.cpp.obj	7410b39d522fd67c
-1443	1532	7373069175146110	04_DataStructure_LinkedListEx_06_SignlyLinkedList.exe	cf1336b27d8b5c12

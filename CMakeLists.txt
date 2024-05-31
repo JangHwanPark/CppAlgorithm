@@ -1,10 +1,5 @@
-add_executable(04_DataStructure_ArrayEx_ArrayList 04_DataStructure/ArrayEx/ArrayList.cpp)
-add_executable(main main.cpp)
-add_executable(04_DataStructure_TreeEx_exam01 04_DataStructure/TreeEx/exam01.cpp)
-add_executable(00_basic_exam01 00_basic/CallByValueAndReference/exam01.cpp)
-add_executable(00_basic_dataTypeMemoryViewTest 00_basic/dataTypeMemoryViewTest.cpp)
-add_executable(00_basic_CallByValueAndReference_exam02 00_basic/CallByValueAndReference/exam02.cpp)
-add_executable(00_basic_loop_exam01 00_basic/loop/exam01.cpp)
-add_executable(00_basic_loop_exam02 00_basic/loop/exam02.cpp)
-add_executable(00_basic_00_section_03_prefixSum 00_basic/00_section/03_prefixSum.cpp)
-add_executable(04_DataStructure_LinkedListEx_06_SignlyLinkedList 04_DataStructure/LinkedListEx/06_SignlyLinkedList.cpp)
+cmake_minimum_required(VERSION 3.10)  # CMake의 요구 최소 버전 지정
+project(MyProject)  # 프로젝트 이름 설정
+
+# 모든 소스 파일을 수집한다.
+file(GLOB_RECURSE SOURCES "*.cpp")
